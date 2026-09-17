@@ -1,32 +1,32 @@
 <!doctype html>
-<html lang="en">
+<html lang="zh-CN">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#0d0f12" />
     <meta
       name="description"
-      content="A live view of GitHub repositories people are watching now."
+      content="持续查看 GitHub 上正在被关注的开源项目和 AI 项目。"
     />
-    <title>Repo Radar — GitHub projects people are watching</title>
-    <link rel="stylesheet" href="./styles.css?v=2" />
+    <title>Repo Radar｜GitHub 项目热度榜</title>
+    <link rel="stylesheet" href="./styles.css?v=3" />
   </head>
   <body>
     <div class="page-shell">
       <header class="site-header">
-        <a class="brand" href="#trending-ai" aria-label="Repo Radar home">
+        <a class="brand" href="#trending" aria-label="Repo Radar 首页">
           <span class="brand-mark" aria-hidden="true">◈</span>
           <span>
             <strong>Repo Radar</strong>
-            <small data-i18n="brandSubtitle">GitHub trend tracker</small>
+            <small data-i18n="brandSubtitle">GitHub 项目热度榜</small>
           </span>
         </a>
-        <nav class="header-nav" aria-label="Site navigation">
-          <a href="#trending" data-board-link="general" data-i18n="navTrending">Trending Repos</a>
-          <a href="#trending-ai" data-board-link="ai" class="active" data-i18n="navAi">Trending AI Repos</a>
+        <nav class="header-nav" aria-label="网站导航">
+          <a href="#trending" data-board-link="general" class="active" data-i18n="navTrending">热门项目</a>
+          <a href="#trending-ai" data-board-link="ai" data-i18n="navAi">热门 AI 项目</a>
         </nav>
-        <button id="language-toggle" class="language-toggle" type="button" aria-label="Switch language">
-          中文
+        <button id="language-toggle" class="language-toggle" type="button" aria-label="切换到英文">
+        EN
         </button>
       </header>
 
@@ -36,59 +36,59 @@
           <div class="hero-glow" aria-hidden="true"></div>
           <div class="hero-meta">
             <span class="live-dot" aria-hidden="true"></span>
-            <span id="freshness-label">Loading latest data</span>
+            <span id="freshness-label">正在读取最新数据</span>
             <span class="meta-divider">/</span>
-            <span id="coverage-label">Discovering projects</span>
+            <span id="coverage-label">正在寻找新项目</span>
           </div>
-          <p class="hero-kicker" id="hero-kicker">Trending AI repositories</p>
-          <h1 id="hero-title">Projects people<br /><span>are watching.</span></h1>
+          <p class="hero-kicker" id="hero-kicker">GitHub 项目热度榜</p>
+          <h1 id="hero-title">大家都在关注<br><span>哪些项目？</span></h1>
           <p class="hero-copy" id="hero-copy">
-            See the open-source projects people are paying attention to right now.
+            看看现在受到关注的开源项目。
           </p>
-          <a class="hero-link" href="#rankings" id="hero-cta">See the list <span aria-hidden="true">↓</span></a>
+          <a class="hero-link" href="#rankings" id="hero-cta">查看榜单 <span aria-hidden="true">↓</span></a>
         </section>
 
-        <section class="stats-grid" aria-label="Dataset summary">
+        <section class="stats-grid" aria-label="数据概览">
           <article class="stat-card stat-featured">
-            <span class="stat-label" id="stat-repos-label">Tracked projects</span>
+            <span class="stat-label" id="stat-repos-label">收录项目</span>
             <strong id="stat-repos">—</strong>
-            <span class="stat-hint" id="stat-repos-hint">Discovered from GitHub</span>
+            <span class="stat-hint" id="stat-repos-hint">近期活跃的开源项目</span>
           </article>
           <article class="stat-card">
-            <span class="stat-label" id="stat-stars-label">Combined stars</span>
+            <span class="stat-label" id="stat-stars-label">Star 总数</span>
             <strong id="stat-stars">—</strong>
-            <span class="stat-hint" id="stat-stars-hint">Current repository totals</span>
+            <span class="stat-hint" id="stat-stars-hint">项目当前总量</span>
           </article>
           <article class="stat-card">
-            <span class="stat-label" id="stat-category-label">AI categories</span>
+            <span class="stat-label" id="stat-category-label">收录项目</span>
             <strong id="stat-categories">—</strong>
-            <span class="stat-hint" id="stat-category-hint">Multiple labels per project</span>
+            <span class="stat-hint" id="stat-category-hint">近期活跃的开源项目</span>
           </article>
           <article class="stat-card">
-            <span class="stat-label" id="stat-updated-label">Data updated</span>
+            <span class="stat-label" id="stat-updated-label">数据更新时间</span>
             <strong id="stat-updated">—</strong>
-            <span class="stat-hint" id="stat-baseline">Building history</span>
+            <span class="stat-hint" id="stat-baseline">正在积累历史记录</span>
           </article>
         </section>
 
         <section id="rankings" class="rankings-section">
           <div class="section-heading">
             <div>
-              <p class="section-kicker" id="rankings-kicker">The board</p>
-              <h2 id="rankings-title">Trending AI Repos</h2>
+              <p class="section-kicker" id="rankings-kicker">项目榜单</p>
+              <h2 id="rankings-title">热门项目</h2>
               <p class="section-description" id="rankings-description">
-                A focused list of projects people are paying attention to right now.
+                按当前关注度整理 GitHub 项目，优先展示 Star、Fork 较多且近期有更新的项目。
               </p>
             </div>
             <div class="data-status" id="data-status" role="status">
               <span class="status-dot" aria-hidden="true"></span>
-              <span>Loading</span>
+              <span>正在加载</span>
             </div>
           </div>
 
           <div class="filter-bar">
-            <div class="category-tabs" id="category-tabs" role="tablist" aria-label="AI categories">
-              <button class="category-tab active" data-category="All" role="tab" aria-selected="true">All</button>
+            <div class="category-tabs" id="category-tabs" role="tablist" aria-label="项目分类">
+              <button class="category-tab active" data-category="All" role="tab" aria-selected="true">全部</button>
             </div>
             <div class="filter-tools">
               <label class="search-box">
@@ -96,11 +96,11 @@
                 <input id="search-input" type="search" placeholder="Search projects" aria-label="Search projects" />
               </label>
               <label class="select-box">
-                <span class="sr-only">Sort by</span>
-                <select id="sort-select" aria-label="Sort projects">
-                  <option value="popular">People are watching</option>
-                  <option value="stars">Total stars</option>
-                  <option value="recent">Recently updated</option>
+                <span class="sr-only">排序方式</span>
+                <select id="sort-select" aria-label="排序方式">
+                  <option value="popular">大家都在关注</option>
+                  <option value="stars">Star 总数</option>
+                  <option value="recent">最近有更新</option>
                 </select>
               </label>
             </div>
@@ -110,13 +110,13 @@
             <article class="spotlight-card popular-card">
               <div class="spotlight-heading">
                 <div>
-                  <p class="section-kicker" id="popular-kicker">Popular now</p>
-                  <h3 id="popular-title">People are watching</h3>
+                  <p class="section-kicker" id="popular-kicker">当前热门</p>
+                  <h3 id="popular-title">大家都在关注</h3>
                 </div>
                 <span class="spotlight-mark" aria-hidden="true">01</span>
               </div>
               <p class="spotlight-description" id="popular-description">
-                Current community size, forks and recent activity.
+                参考当前 Star、Fork 数量和最近的项目更新。
               </p>
               <div class="spotlight-list" id="popular-list"></div>
             </article>
@@ -124,47 +124,47 @@
 
           <div class="table-shell">
             <div class="table-caption">
-              <span id="results-caption">Top 50 projects</span>
-              <span class="table-caption-note" id="results-note">Sorted by current attention</span>
+              <span id="results-caption">前 50 个项目</span>
+              <span class="table-caption-note" id="results-note">按当前关注度排序</span>
             </div>
             <div class="table-scroll">
               <table>
                 <thead>
                   <tr>
                     <th class="col-rank">#</th>
-                    <th id="th-project">Project</th>
-                    <th class="align-right" id="th-stars">Stars</th>
-                    <th class="align-right" id="th-seven">7d</th>
-                    <th class="align-right" id="th-twenty-eight">28d</th>
-                    <th class="align-right" id="th-heat">Heat</th>
-                    <th id="th-category">Category</th>
-                    <th class="col-link"><span class="sr-only">Open project</span></th>
+                    <th id="th-project">项目</th>
+                    <th class="align-right" id="th-stars">Star</th>
+                    <th class="align-right" id="th-seven">7 天</th>
+                    <th class="align-right" id="th-twenty-eight">28 天</th>
+                    <th class="align-right" id="th-heat">关注度</th>
+                    <th id="th-category">分类</th>
+                    <th class="col-link"><span class="sr-only">打开项目</span></th>
                   </tr>
                 </thead>
                 <tbody id="ranking-body">
                   <tr class="loading-row">
                     <td colspan="8">
                       <span class="loading-spinner" aria-hidden="true"></span>
-                      Loading GitHub data…
+                      正在读取 GitHub 数据…
                     </td>
                   </tr>
                 </tbody>
               </table>
             </div>
             <div class="empty-state" id="empty-state" hidden>
-              <strong id="empty-title">No projects found</strong>
-              <span id="empty-copy">Try another category or search term.</span>
+              <strong id="empty-title">没有找到项目</strong>
+              <span id="empty-copy">换个关键词试试。</span>
             </div>
           </div>
         </section>
 
-        <section id="category-section" class="category-section">
+        <section id="category-section" class="category-section" hidden>
           <div class="section-heading compact">
             <div>
-              <p class="section-kicker" id="category-kicker">AI directions</p>
-              <h2 id="category-title">Browse by direction</h2>
+              <p class="section-kicker" id="category-kicker">AI 技术方向</p>
+              <h2 id="category-title">按方向浏览</h2>
               <p class="section-description" id="category-description">
-                A project may belong to more than one direction.
+                一个项目可以同时属于多个技术方向。
               </p>
             </div>
           </div>
@@ -177,12 +177,12 @@
           <span class="brand-mark" aria-hidden="true">◈</span>
           <span>
             <strong>Repo Radar</strong>
-            <small data-i18n="footerSubtitle">A simple view of GitHub attention</small>
+            <small data-i18n="footerSubtitle">只看项目热度</small>
           </span>
         </div>
-        <p id="footer-copy">Updated by GitHub Actions · public GitHub data</p>
+        <p id="footer-copy">由 GitHub Actions 定期更新 · 数据来自公开 GitHub 信息</p>
       </footer>
     </div>
-    <script src="./app.js?v=2" defer></script>
+    <script src="./app.js?v=3" defer></script>
   </body>
 </html>

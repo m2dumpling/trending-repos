@@ -2,7 +2,7 @@
   'use strict';
 
   var state = {
-    board: 'ai',
+    board: 'general',
     category: 'All',
     sort: 'popular',
     query: '',
@@ -169,7 +169,7 @@
 
   function getSavedLanguage() {
     try {
-      return localStorage.getItem('repo-radar-language') === 'zh' ? 'zh' : 'en';
+      return localStorage.getItem('repo-radar-language') === 'en' ? 'en' : 'zh';
     } catch (error) {
       return 'en';
     }
@@ -514,8 +514,8 @@
 
   function readBoardFromHash() {
     var hash = window.location.hash.toLowerCase();
-    if (hash === '#trending') state.board = 'general';
-    if (hash === '#trending-ai' || hash === '') state.board = 'ai';
+    if (hash === '#trending-ai') state.board = 'ai';
+    if (hash === '#trending' || hash === '') state.board = 'general';
     render();
   }
 
