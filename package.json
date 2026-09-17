@@ -1,0 +1,15 @@
+{
+  "name": "ossinsight-revival",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A bilingual, snapshot-powered GitHub Trending Repos and Trending AI Repos site.",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-trending.mjs",
+    "build": "node scripts/build-site.mjs",
+    "dev": "python -m http.server 4173 -d ."
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

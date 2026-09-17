@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0d0f12" />
+    <meta
+      name="description"
+      content="A live view of GitHub repositories people are watching now."
+    />
+    <title>Repo Radar — GitHub projects people are watching</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="#trending-ai" aria-label="Repo Radar home">
+          <span class="brand-mark" aria-hidden="true">◈</span>
+          <span>
+            <strong>Repo Radar</strong>
+            <small data-i18n="brandSubtitle">GitHub trend tracker</small>
+          </span>
+        </a>
+        <nav class="header-nav" aria-label="Site navigation">
+          <a href="#trending" data-board-link="general" data-i18n="navTrending">Trending Repos</a>
+          <a href="#trending-ai" data-board-link="ai" class="active" data-i18n="navAi">Trending AI Repos</a>
+        </nav>
+        <button id="language-toggle" class="language-toggle" type="button" aria-label="Switch language">
+          中文
+        </button>
+      </header>
+
+      <main>
+        <section class="hero" id="hero">
+          <div class="hero-grid" aria-hidden="true"></div>
+          <div class="hero-glow" aria-hidden="true"></div>
+          <div class="hero-meta">
+            <span class="live-dot" aria-hidden="true"></span>
+            <span id="freshness-label">Loading latest data</span>
+            <span class="meta-divider">/</span>
+            <span id="coverage-label">Discovering projects</span>
+          </div>
+          <p class="hero-kicker" id="hero-kicker">Trending AI repositories</p>
+          <h1 id="hero-title">Projects people<br /><span>are watching.</span></h1>
+          <p class="hero-copy" id="hero-copy">
+            See the open-source projects people are paying attention to right now.
+          </p>
+          <a class="hero-link" href="#rankings" id="hero-cta">See the list <span aria-hidden="true">↓</span></a>
+        </section>
+
+        <section class="stats-grid" aria-label="Dataset summary">
+          <article class="stat-card stat-featured">
+            <span class="stat-label" id="stat-repos-label">Tracked projects</span>
+            <strong id="stat-repos">—</strong>
+            <span class="stat-hint" id="stat-repos-hint">Discovered from GitHub</span>
+          </article>
+          <article class="stat-card">
+            <span class="stat-label" id="stat-stars-label">Combined stars</span>
+            <strong id="stat-stars">—</strong>
+            <span class="stat-hint" id="stat-stars-hint">Current repository totals</span>
+          </article>
+          <article class="stat-card">
+            <span class="stat-label" id="stat-category-label">AI categories</span>
+            <strong id="stat-categories">—</strong>
+            <span class="stat-hint" id="stat-category-hint">Multiple labels per project</span>
+          </article>
+          <article class="stat-card">
+            <span class="stat-label" id="stat-updated-label">Data updated</span>
+            <strong id="stat-updated">—</strong>
+            <span class="stat-hint" id="stat-baseline">Building history</span>
+          </article>
+        </section>
+
+        <section id="rankings" class="rankings-section">
+          <div class="section-heading">
+            <div>
+              <p class="section-kicker" id="rankings-kicker">The board</p>
+              <h2 id="rankings-title">Trending AI Repos</h2>
+              <p class="section-description" id="rankings-description">
+                A focused list of projects people are paying attention to right now.
+              </p>
+            </div>
+            <div class="data-status" id="data-status" role="status">
+              <span class="status-dot" aria-hidden="true"></span>
+              <span>Loading</span>
+            </div>
+          </div>
+
+          <div class="filter-bar">
+            <div class="category-tabs" id="category-tabs" role="tablist" aria-label="AI categories">
+              <button class="category-tab active" data-category="All" role="tab" aria-selected="true">All</button>
+            </div>
+            <div class="filter-tools">
+              <label class="search-box">
+                <span class="search-icon" aria-hidden="true">⌕</span>
+                <input id="search-input" type="search" placeholder="Search projects" aria-label="Search projects" />
+              </label>
+              <label class="select-box">
+                <span class="sr-only">Sort by</span>
+                <select id="sort-select" aria-label="Sort projects">
+                  <option value="popular">People are watching</option>
+                  <option value="stars">Total stars</option>
+                  <option value="recent">Recently updated</option>
+                </select>
+              </label>
+            </div>
+          </div>
+
+          <div class="spotlight-grid spotlight-single">
+            <article class="spotlight-card popular-card">
+              <div class="spotlight-heading">
+                <div>
+                  <p class="section-kicker" id="popular-kicker">Popular now</p>
+                  <h3 id="popular-title">People are watching</h3>
+                </div>
+                <span class="spotlight-mark" aria-hidden="true">01</span>
+              </div>
+              <p class="spotlight-description" id="popular-description">
+                Current community size, forks and recent activity.
+              </p>
+              <div class="spotlight-list" id="popular-list"></div>
+            </article>
+          </div>
+
+          <div class="table-shell">
+            <div class="table-caption">
+              <span id="results-caption">Top 50 projects</span>
+              <span class="table-caption-note" id="results-note">Sorted by current attention</span>
+            </div>
+            <div class="table-scroll">
+              <table>
+                <thead>
+                  <tr>
+                    <th class="col-rank">#</th>
+                    <th id="th-project">Project</th>
+                    <th class="align-right" id="th-stars">Stars</th>
+                    <th class="align-right" id="th-seven">7d</th>
+                    <th class="align-right" id="th-twenty-eight">28d</th>
+                    <th class="align-right" id="th-heat">Heat</th>
+                    <th id="th-category">Category</th>
+                    <th class="col-link"><span class="sr-only">Open project</span></th>
+                  </tr>
+                </thead>
+                <tbody id="ranking-body">
+                  <tr class="loading-row">
+                    <td colspan="8">
+                      <span class="loading-spinner" aria-hidden="true"></span>
+                      Loading GitHub data…
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="empty-state" id="empty-state" hidden>
+              <strong id="empty-title">No projects found</strong>
+              <span id="empty-copy">Try another category or search term.</span>
+            </div>
+          </div>
+        </section>
+
+        <section id="category-section" class="category-section">
+          <div class="section-heading compact">
+            <div>
+              <p class="section-kicker" id="category-kicker">AI directions</p>
+              <h2 id="category-title">Browse by direction</h2>
+              <p class="section-description" id="category-description">
+                A project may belong to more than one direction.
+              </p>
+            </div>
+          </div>
+          <div class="category-grid" id="category-grid"></div>
+        </section>
+      </main>
+
+      <footer class="site-footer">
+        <div class="brand footer-brand">
+          <span class="brand-mark" aria-hidden="true">◈</span>
+          <span>
+            <strong>Repo Radar</strong>
+            <small data-i18n="footerSubtitle">A simple view of GitHub attention</small>
+          </span>
+        </div>
+        <p id="footer-copy">Updated by GitHub Actions · public GitHub data</p>
+      </footer>
+    </div>
+    <script src="./app.js" defer></script>
+  </body>
+</html>

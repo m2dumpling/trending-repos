@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "description": "Dynamic AI repository taxonomy. Sources are seed examples only; GitHub Search and repository text discover the live membership.",
+  "categories": [
+    {
+      "key": "ai-agents",
+      "label": "AI Agents",
+      "labelZh": "AI 智能体",
+      "color": "#b6a7ff",
+      "threshold": 5.5,
+      "discoveryTopics": ["ai-agents", "agent-framework"],
+      "strongTopics": ["ai-agents", "agent-framework"],
+      "aliases": ["ai agent", "agent framework", "autonomous agent", "agentic workflow"],
+      "signals": [
+        { "term": "tool calling", "weight": 1.8 },
+        { "term": "multi-agent", "weight": 2.4 },
+        { "term": "agent orchestration", "weight": 2.4 }
+      ],
+      "negativeSignals": ["game agent"],
+      "description": "Frameworks for building autonomous agents and agentic workflows.",
+      "descriptionZh": "构建自主智能体与 Agent 工作流的框架。",
+      "sources": [
+        { "id": 10098, "file": "10098.ai-agent-frameworks.yml", "slug": "ai-agent-frameworks" }
+      ]
+    },
+    {
+      "key": "llm-tools",
+      "label": "LLM Tools",
+      "labelZh": "大模型工具",
+      "color": "#75a7ff",
+      "threshold": 5.5,
+      "discoveryTopics": ["llm", "large-language-models"],
+      "strongTopics": ["llm-tools", "llm-tool", "llm-devtools", "large-language-models"],
+      "aliases": ["llm tool", "large language model"],
+      "signals": [
+        { "term": "prompt engineering", "weight": 2.2 },
+        { "term": "llm evaluation", "weight": 2.2 },
+        { "term": "llm devtools", "weight": 2.2 },
+        { "term": "model context", "weight": 1.6 }
+      ],
+      "negativeSignals": ["image classification"],
+      "description": "SDKs, gateways, evaluation and developer tools around language models.",
+      "descriptionZh": "围绕大语言模型的 SDK、网关、评测与开发工具。",
+      "sources": [
+        { "id": 10076, "file": "10076.llm-tools.yml", "slug": "llm-tools" }
+      ]
+    },
+    {
+      "key": "mcp-servers",
+      "label": "MCP Servers",
+      "labelZh": "MCP 服务",
+      "color": "#7be0bd",
+      "threshold": 5.5,
+      "discoveryTopics": ["model-context-protocol", "mcp-server"],
+      "strongTopics": ["model-context-protocol", "mcp-server"],
+      "aliases": ["mcp server", "model context protocol", "mcp tool"],
+      "signals": [
+        { "term": "mcp", "weight": 2.5 },
+        { "term": "model context protocol", "weight": 4.5 },
+        { "term": "mcp resource", "weight": 2.8 }
+      ],
+      "negativeSignals": [],
+      "description": "Servers that connect AI models with tools, data and external systems.",
+      "descriptionZh": "连接 AI 模型、工具、数据与外部系统的 MCP 服务。",
+      "sources": [
+        { "id": 10105, "file": "10105.mcp-servers.yml", "slug": "mcp-servers" }
+      ]
+    },
+    {
+      "key": "coding-agents",
+      "label": "Coding Agents",
+      "labelZh": "编程智能体",
+      "color": "#ff9f79",
+      "threshold": 5.5,
+      "discoveryTopics": ["coding-agent", "ai-coding"],
+      "strongTopics": ["coding-agent", "ai-coding", "code-agent"],
+      "aliases": ["coding agent", "ai coding", "software engineering agent", "code agent"],
+      "signals": [
+        { "term": "code generation", "weight": 2.6 },
+        { "term": "coding assistant", "weight": 2.6 },
+        { "term": "autonomous coding", "weight": 3.2 },
+        { "term": "codebase agent", "weight": 2.8 }
+      ],
+      "negativeSignals": ["code golf"],
+      "description": "Agents and environments that can plan, edit, test and ship code.",
+      "descriptionZh": "能够规划、修改、测试并交付代码的智能体与环境。",
+      "sources": [
+        { "id": 10106, "file": "10106.coding-agents.yml", "slug": "coding-agents" }
+      ]
+    },
+    {
+      "key": "rag",
+      "label": "RAG",
+      "labelZh": "RAG 检索增强",
+      "color": "#a9dc83",
+      "threshold": 5.5,
+      "discoveryTopics": ["rag", "retrieval-augmented-generation"],
+      "strongTopics": ["rag", "retrieval-augmented-generation"],
+      "aliases": ["retrieval augmented generation", "retrieval-augmented generation", "rag"],
+      "signals": [
+        { "term": "retrieval pipeline", "weight": 3.2 },
+        { "term": "document retrieval", "weight": 2.3 },
+        { "term": "context retrieval", "weight": 2.3 },
+        { "term": "question answering", "weight": 1.8 }
+      ],
+      "negativeSignals": [],
+      "description": "Retrieval-augmented generation frameworks and application kits.",
+      "descriptionZh": "检索增强生成框架与应用工具包。",
+      "sources": [
+        { "id": 10108, "file": "10108.rag-frameworks.yml", "slug": "rag-frameworks" }
+      ]
+    },
+    {
+      "key": "inference",
+      "label": "Inference",
+      "labelZh": "模型推理",
+      "color": "#ffd37d",
+      "threshold": 5.5,
+      "discoveryTopics": ["llm-inference", "inference"],
+      "strongTopics": ["llm-inference", "inference-engine", "model-serving"],
+      "aliases": ["llm inference", "model inference", "inference engine", "model serving"],
+      "signals": [
+        { "term": "inference server", "weight": 3.2 },
+        { "term": "serving large language models", "weight": 3.2 },
+        { "term": "quantization", "weight": 1.8 },
+        { "term": "continuous batching", "weight": 2.5 }
+      ],
+      "negativeSignals": [],
+      "description": "Inference servers, runtimes and engines for running models efficiently.",
+      "descriptionZh": "高效运行模型的推理服务、运行时与引擎。",
+      "sources": [
+        { "id": 10109, "file": "10109.llm-inference-engines.yml", "slug": "llm-inference-engines" }
+      ]
+    },
+    {
+      "key": "vector-db",
+      "label": "Vector DB",
+      "labelZh": "向量数据库",
+      "color": "#cbb8ff",
+      "threshold": 5.5,
+      "discoveryTopics": ["vector-database", "vector-search"],
+      "strongTopics": ["vector-database", "vector-search"],
+      "aliases": ["vector database", "vector db", "vector search", "semantic search"],
+      "signals": [
+        { "term": "approximate nearest neighbor", "weight": 3.5 },
+        { "term": "embedding database", "weight": 3.0 },
+        { "term": "similarity search", "weight": 2.4 },
+        { "term": "nearest neighbor search", "weight": 2.4 }
+      ],
+      "negativeSignals": [],
+      "description": "Vector search engines and databases that power semantic retrieval.",
+      "descriptionZh": "支撑语义检索的向量搜索引擎与数据库。",
+      "sources": [
+        { "id": 10077, "file": "10077.vector-search-engine.yml", "slug": "vector-search-engine" },
+        { "id": 10117, "file": "10117.vector-databases.yml", "slug": "vector-databases" }
+      ]
+    },
+    {
+      "key": "vibe-coding",
+      "label": "Vibe Coding",
+      "labelZh": "AI 编程",
+      "color": "#ff8e91",
+      "threshold": 5.5,
+      "discoveryTopics": ["vibe-coding", "ai-app-builder"],
+      "strongTopics": ["vibe-coding", "ai-app-builder"],
+      "aliases": ["vibe coding", "ai app builder", "natural language programming"],
+      "signals": [
+        { "term": "build apps with ai", "weight": 3.0 },
+        { "term": "prompt to app", "weight": 3.0 },
+        { "term": "text to app", "weight": 2.5 },
+        { "term": "no-code ai", "weight": 2.2 }
+      ],
+      "negativeSignals": [],
+      "description": "AI-first tools for turning ideas into working software quickly.",
+      "descriptionZh": "用 AI 快速把想法变成可运行软件的工具。",
+      "sources": [
+        { "id": 10107, "file": "10107.vibe-coding-tools.yml", "slug": "vibe-coding-tools" }
+      ]
+    },
+    {
+      "key": "ai-assistants",
+      "label": "AI Assistants",
+      "labelZh": "AI 助手",
+      "color": "#78c9f5",
+      "threshold": 5.5,
+      "discoveryTopics": ["ai-assistant", "copilot"],
+      "strongTopics": ["ai-assistant", "copilot"],
+      "aliases": ["ai assistant", "personal ai", "ai copilot", "coding copilot"],
+      "signals": [
+        { "term": "chat assistant", "weight": 2.4 },
+        { "term": "personal assistant", "weight": 2.4 },
+        { "term": "desktop assistant", "weight": 2.3 },
+        { "term": "open source copilot", "weight": 2.7 }
+      ],
+      "negativeSignals": [],
+      "description": "Open assistants and copilots for everyday knowledge work.",
+      "descriptionZh": "面向日常知识工作的开源助手与 Copilot。",
+      "sources": [
+        { "id": 10112, "file": "10112.ai-coding-assistants.yml", "slug": "ai-coding-assistants" }
+      ]
+    }
+  ]
+}
