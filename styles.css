@@ -514,7 +514,7 @@ select:focus-visible {
 }
 
 .spotlight-single .spotlight-list {
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   column-gap: 18px;
 }
 
@@ -570,7 +570,7 @@ select:focus-visible {
 
 .spotlight-item {
   display: grid;
-  grid-template-columns: 25px 27px minmax(0, 1fr) max-content 18px;
+  grid-template-columns: 25px 27px minmax(0, 1fr) 110px 18px;
   align-items: center;
   gap: 9px;
   min-width: 0;
@@ -1115,7 +1115,7 @@ tbody tr:hover td {
   }
 
   .spotlight-item {
-    grid-template-columns: 22px 27px minmax(0, 1fr) max-content 18px;
+    grid-template-columns: 22px 27px minmax(0, 1fr) 86px 18px;
   }
 
   .spotlight-card {
