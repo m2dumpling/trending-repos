@@ -37,6 +37,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # A rerun can start from the original event SHA after an earlier run has
+      # already committed refreshed data. Always use the latest main before
+      # generating the next snapshot so the data commit can fast-forward.
+      - name: Sync latest main
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
