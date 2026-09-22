@@ -71,3 +71,5 @@ The prototype describes a direction rather than a fixed repository list. The nex
 ## License
 
 The application code is released under the Apache License 2.0. The seed collection files in `data/collections/` were copied from [pingcap/ossinsight](https://github.com/pingcap/ossinsight) and retain their original Apache-2.0 licensing. See [LICENSE](LICENSE).
+
+test
