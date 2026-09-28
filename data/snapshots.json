@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28T14:04:50.587Z",
+  "updatedAt": "2026-09-28T23:21:17.425Z",
   "snapshots": {
     "VoltAgent/voltagent": [
       {
@@ -27,8 +27,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 210469,
-        "forks": 27842
+        "stars": 210625,
+        "forks": 27877
       }
     ],
     "langchain-ai/langchain": [
@@ -89,8 +89,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 147197,
-        "forks": 24637
+        "stars": 147210,
+        "forks": 24644
       }
     ],
     "microsoft/playwright-mcp": [
@@ -151,8 +151,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 37652,
-        "forks": 3199
+        "stars": 37660,
+        "forks": 3200
       }
     ],
     "ollama/ollama": [
@@ -213,7 +213,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 181851,
+        "stars": 181870,
         "forks": 18032
       }
     ],
@@ -275,8 +275,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 34865,
-        "forks": 2705
+        "stars": 34868,
+        "forks": 2706
       }
     ],
     "stackblitz/bolt.new": [
@@ -367,6 +367,11 @@
         "date": "2026-09-27",
         "stars": 52331,
         "forks": 8227
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 52339,
+        "forks": 8238
       }
     ],
     "ggml-org/llama.cpp": [
@@ -409,6 +414,11 @@
         "date": "2026-09-25",
         "stars": 129502,
         "forks": 23727
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 129802,
+        "forks": 23867
       }
     ],
     "weaviate/weaviate": [
@@ -553,8 +563,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 59134,
-        "forks": 8586
+        "stars": 59149,
+        "forks": 8590
       }
     ],
     "confident-ai/deepeval": [
@@ -671,7 +681,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 26623,
+        "stars": 26624,
         "forks": 3200
       }
     ],
@@ -733,8 +743,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 92865,
-        "forks": 22759
+        "stars": 92885,
+        "forks": 22776
       }
     ],
     "vdaas/vald": [
@@ -852,8 +862,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 69480,
-        "forks": 7537
+        "stars": 69498,
+        "forks": 7544
       }
     ],
     "langgenius/dify": [
@@ -914,8 +924,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 157407,
-        "forks": 24802
+        "stars": 157430,
+        "forks": 24805
       }
     ],
     "nomic-ai/gpt4all": [
@@ -983,7 +993,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 46271,
+        "stars": 46275,
         "forks": 4275
       }
     ],
@@ -1052,8 +1062,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 70560,
-        "forks": 4839
+        "stars": 70593,
+        "forks": 4841
       }
     ],
     "agno-agi/agno": [
@@ -1114,8 +1124,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 42365,
-        "forks": 6030
+        "stars": 42371,
+        "forks": 6032
       }
     ],
     "GLips/Figma-Context-MCP": [
@@ -1489,6 +1499,11 @@
         "date": "2026-09-21",
         "stars": 1513,
         "forks": 151
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 1526,
+        "forks": 154
       }
     ],
     "niri-wm/niri": [
@@ -1627,8 +1642,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 390671,
-        "forks": 82161
+        "stars": 390730,
+        "forks": 82162
       }
     ],
     "lodev09/react-native-true-sheet": [
@@ -1828,6 +1843,11 @@
         "date": "2026-09-27",
         "stars": 10187,
         "forks": 2195
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 10188,
+        "forks": 2199
       }
     ],
     "neoclide/coc.nvim": [
@@ -2002,8 +2022,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 238514,
-        "forks": 28653
+        "stars": 238719,
+        "forks": 28675
       }
     ],
     "DietrichGebert/ponytail": [
@@ -2064,8 +2084,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 147282,
-        "forks": 7914
+        "stars": 147532,
+        "forks": 7925
       }
     ],
     "odysseus-dev/odysseus": [
@@ -2126,8 +2146,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 87642,
-        "forks": 993
+        "stars": 87657,
+        "forks": 996
       }
     ],
     "bilawalsidhu/gods-eye-view": [
@@ -2188,8 +2208,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 44355,
-        "forks": 9013
+        "stars": 44561,
+        "forks": 9055
       }
     ],
     "JustVugg/colibri": [
@@ -2250,8 +2270,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 38080,
-        "forks": 4150
+        "stars": 38130,
+        "forks": 4157
       }
     ],
     "anywhere-labs/dsh-desktop": [
@@ -2312,8 +2332,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 29311,
-        "forks": 1392
+        "stars": 29330,
+        "forks": 1394
       }
     ],
     "xai-org/grok-build": [
@@ -2374,8 +2394,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 27135,
-        "forks": 5111
+        "stars": 27140,
+        "forks": 5113
       }
     ],
     "baidu/Unlimited-OCR": [
@@ -2436,8 +2456,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 26469,
-        "forks": 2763
+        "stars": 26488,
+        "forks": 2772
       }
     ],
     "guillaumemeyer/watermarks-remover": [
@@ -2498,8 +2518,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 22993,
-        "forks": 2637
+        "stars": 23018,
+        "forks": 2638
       }
     ],
     "firecrawl/anydoc": [
@@ -2560,8 +2580,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 22124,
-        "forks": 1387
+        "stars": 22163,
+        "forks": 1392
       }
     ],
     "AprilNEA/OpenLogi": [
@@ -2654,8 +2674,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 21849,
-        "forks": 850
+        "stars": 21933,
+        "forks": 859
       }
     ],
     "andrewyng/openworker": [
@@ -2716,8 +2736,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 18328,
-        "forks": 2589
+        "stars": 18339,
+        "forks": 2593
       }
     ],
     "langchain-ai/openwiki": [
@@ -2778,8 +2798,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 16831,
-        "forks": 1228
+        "stars": 16836,
+        "forks": 1229
       }
     ],
     "img2threejs/img2threejs": [
@@ -2840,7 +2860,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 17082,
+        "stars": 17101,
         "forks": 1432
       }
     ],
@@ -2902,8 +2922,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 17136,
-        "forks": 3361
+        "stars": 17159,
+        "forks": 3372
       }
     ],
     "zhishile/codex-auth-helper": [
@@ -2964,8 +2984,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 17047,
-        "forks": 665
+        "stars": 17063,
+        "forks": 666
       }
     ],
     "yc-software/qm": [
@@ -3026,8 +3046,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 15272,
-        "forks": 1882
+        "stars": 15274,
+        "forks": 1883
       }
     ],
     "lidge-jun/opencodex": [
@@ -3088,8 +3108,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 16554,
-        "forks": 1240
+        "stars": 16584,
+        "forks": 1241
       }
     ],
     "Fei-Away/Codex-Dream-Skin": [
@@ -3150,7 +3170,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 14821,
+        "stars": 14823,
         "forks": 1365
       }
     ],
@@ -3212,8 +3232,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 13534,
-        "forks": 1405
+        "stars": 13535,
+        "forks": 1406
       }
     ],
     "FlashML-org/FreeToken": [
@@ -3274,8 +3294,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 13928,
-        "forks": 1372
+        "stars": 13939,
+        "forks": 1373
       }
     ],
     "helloianneo/ian-xiaohei-illustrations": [
@@ -3336,8 +3356,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 12178,
-        "forks": 1411
+        "stars": 12187,
+        "forks": 1412
       }
     ],
     "cobusgreyling/loop-engineering": [
@@ -3398,8 +3418,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 11331,
-        "forks": 1519
+        "stars": 11332,
+        "forks": 1520
       }
     ],
     "pathwaycom/arc-task-gen": [
@@ -3460,7 +3480,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 11117,
+        "stars": 11115,
         "forks": 75
       }
     ],
@@ -3522,8 +3542,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 11240,
-        "forks": 705
+        "stars": 11247,
+        "forks": 706
       }
     ],
     "openai/codex-security": [
@@ -3584,8 +3604,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 10871,
-        "forks": 824
+        "stars": 10877,
+        "forks": 826
       }
     ],
     "XxHuberrr/Mineradio": [
@@ -3668,7 +3688,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 10942,
+        "stars": 10949,
         "forks": 1549
       }
     ],
@@ -3730,8 +3750,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 11464,
-        "forks": 783
+        "stars": 11483,
+        "forks": 786
       }
     ],
     "omnigent-ai/omnigent": [
@@ -3792,8 +3812,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 10322,
-        "forks": 1640
+        "stars": 10329,
+        "forks": 1644
       }
     ],
     "StarTrail-org/PixelRAG": [
@@ -3923,8 +3943,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 9558,
-        "forks": 1069
+        "stars": 9562,
+        "forks": 1071
       }
     ],
     "cloudflare/computer": [
@@ -3985,8 +4005,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 9306,
-        "forks": 533
+        "stars": 9308,
+        "forks": 534
       }
     ],
     "shadcn/improve": [
@@ -4109,8 +4129,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 10507,
-        "forks": 692
+        "stars": 10518,
+        "forks": 694
       }
     ],
     "MiniMax-AI/MiniMax-H3": [
@@ -4171,7 +4191,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 9324,
+        "stars": 9337,
         "forks": 692
       }
     ],
@@ -4233,7 +4253,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 9801,
+        "stars": 9826,
         "forks": 879
       }
     ],
@@ -4295,7 +4315,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 8873,
+        "stars": 8874,
         "forks": 748
       }
     ],
@@ -4441,8 +4461,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 8912,
-        "forks": 1139
+        "stars": 8921,
+        "forks": 1141
       }
     ],
     "MDX-Tom/gpt-instruct": [
@@ -4503,7 +4523,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 8916,
+        "stars": 8932,
         "forks": 1090
       }
     ],
@@ -4565,8 +4585,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 22580,
-        "forks": 1311
+        "stars": 22725,
+        "forks": 1322
       }
     ],
     "chuspeeism/dashi-ppt-skill": [
@@ -4627,8 +4647,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 8929,
-        "forks": 802
+        "stars": 8937,
+        "forks": 804
       }
     ],
     "trailhq/Graft": [
@@ -4689,8 +4709,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 9342,
-        "forks": 858
+        "stars": 9369,
+        "forks": 861
       }
     ],
     "miuuyy/codex-chatgpt-web": [
@@ -4751,8 +4771,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 12381,
-        "forks": 983
+        "stars": 12511,
+        "forks": 992
       }
     ],
     "FareedKhan-dev/kimi-k3-in-c": [
@@ -4813,8 +4833,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 8753,
-        "forks": 1413
+        "stars": 8771,
+        "forks": 1418
       }
     ],
     "deeplethe/utopia": [
@@ -4875,8 +4895,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 7960,
-        "forks": 1088
+        "stars": 7969,
+        "forks": 1090
       }
     ],
     "Bike4Mind/bike4mind": [
@@ -4989,8 +5009,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 2490,
-        "forks": 330
+        "stars": 2493,
+        "forks": 333
       }
     ],
     "Cotal-AI/Cotal": [
@@ -5244,6 +5264,11 @@
         "date": "2026-09-26",
         "stars": 5031,
         "forks": 596
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 5510,
+        "forks": 674
       }
     ],
     "gakonst/nanocodex": [
@@ -5286,6 +5311,11 @@
         "date": "2026-09-27",
         "stars": 529,
         "forks": 67
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 530,
+        "forks": 69
       }
     ],
     "activeing123/mcptoon": [
@@ -5437,7 +5467,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 43939,
+        "stars": 43940,
         "forks": 8093
       }
     ],
@@ -5610,8 +5640,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 91424,
-        "forks": 10847
+        "stars": 91444,
+        "forks": 10851
       }
     ],
     "tetherto/qvac": [
@@ -5672,7 +5702,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 653,
+        "stars": 654,
         "forks": 118
       }
     ],
@@ -5734,8 +5764,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 17133,
-        "forks": 2051
+        "stars": 17215,
+        "forks": 2054
       }
     ],
     "talirezun/the-curator": [
@@ -5835,8 +5865,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 10928,
-        "forks": 3412
+        "stars": 10929,
+        "forks": 3414
       }
     ],
     "hproxy-com/free-proxy-list": [
@@ -5872,7 +5902,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 67,
+        "stars": 68,
         "forks": 6
       }
     ],
@@ -5934,7 +5964,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 48640,
+        "stars": 48649,
         "forks": 8596
       }
     ],
@@ -5996,8 +6026,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 35705,
-        "forks": 2423
+        "stars": 35703,
+        "forks": 2424
       }
     ],
     "VectifyAI/PageIndex": [
@@ -6058,8 +6088,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 35896,
-        "forks": 3165
+        "stars": 36256,
+        "forks": 3182
       }
     ],
     "avante-corp/avante.nvim": [
@@ -6241,7 +6271,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 749,
+        "stars": 750,
         "forks": 271
       }
     ],
@@ -6310,8 +6340,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 76899,
-        "forks": 7065
+        "stars": 76950,
+        "forks": 7073
       }
     ],
     "ModelTC/LightX2V": [
@@ -6372,6 +6402,11 @@
         "date": "2026-09-26",
         "stars": 21302,
         "forks": 8631
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 21302,
+        "forks": 8630
       }
     ],
     "milind-soni/OpenMausBot": [
@@ -6486,7 +6521,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 976,
+        "stars": 981,
         "forks": 111
       }
     ],
@@ -6566,7 +6601,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 776,
+        "stars": 794,
         "forks": 9
       }
     ],
@@ -6685,7 +6720,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 9176,
+        "stars": 9175,
         "forks": 1024
       }
     ],
@@ -6794,8 +6829,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 22234,
-        "forks": 11943
+        "stars": 22237,
+        "forks": 11948
       }
     ],
     "apache/spark": [
@@ -6875,8 +6910,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 78028,
-        "forks": 26096
+        "stars": 78053,
+        "forks": 26093
       }
     ],
     "apache/apisix": [
@@ -7137,7 +7172,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 14151,
+        "stars": 14154,
         "forks": 2247
       }
     ],
@@ -7600,8 +7635,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 7109,
-        "forks": 1805
+        "stars": 7115,
+        "forks": 1808
       }
     ],
     "ente/ente": [
@@ -7820,7 +7855,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 8108,
+        "stars": 8116,
         "forks": 553
       }
     ],
@@ -7941,8 +7976,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 8098,
-        "forks": 1083
+        "stars": 8117,
+        "forks": 1086
       }
     ],
     "astrid-runtime/book": [
@@ -8151,7 +8186,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 8392,
+        "stars": 8405,
         "forks": 887
       }
     ],
@@ -8332,7 +8367,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 7173,
+        "stars": 7174,
         "forks": 666
       }
     ],
@@ -8394,7 +8429,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 7205,
+        "stars": 7210,
         "forks": 316
       }
     ],
@@ -8456,7 +8491,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 10278,
+        "stars": 10300,
         "forks": 397
       }
     ],
@@ -8572,8 +8607,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 8048,
-        "forks": 1049
+        "stars": 8067,
+        "forks": 1051
       }
     ],
     "arvids-unavailable/openGym": [
@@ -8634,8 +8669,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6978,
-        "forks": 1162
+        "stars": 6984,
+        "forks": 1165
       }
     ],
     "jakubkrehel/skills": [
@@ -8696,8 +8731,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 7292,
-        "forks": 270
+        "stars": 7301,
+        "forks": 272
       }
     ],
     "bashalarmistalt/decimen-optical-transfer": [
@@ -8820,7 +8855,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6837,
+        "stars": 6840,
         "forks": 431
       }
     ],
@@ -8882,8 +8917,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 10545,
-        "forks": 1045
+        "stars": 10577,
+        "forks": 1050
       }
     ],
     "KunAgent/Kun": [
@@ -8976,8 +9011,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 7275,
-        "forks": 2304
+        "stars": 7291,
+        "forks": 2312
       }
     ],
     "elder-plinius/T3MP3ST": [
@@ -9038,8 +9073,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6270,
-        "forks": 1311
+        "stars": 6273,
+        "forks": 1312
       }
     ],
     "LaoFeng-mouse/flyingmouse-format": [
@@ -9100,7 +9135,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6338,
+        "stars": 6343,
         "forks": 526
       }
     ],
@@ -9162,7 +9197,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5966,
+        "stars": 5967,
         "forks": 451
       }
     ],
@@ -9224,7 +9259,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6267,
+        "stars": 6277,
         "forks": 603
       }
     ],
@@ -9303,8 +9338,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 7664,
-        "forks": 391
+        "stars": 7679,
+        "forks": 395
       }
     ],
     "oomol-lab/open-connector": [
@@ -9365,7 +9400,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5910,
+        "stars": 5911,
         "forks": 524
       }
     ],
@@ -9427,7 +9462,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6266,
+        "stars": 6289,
         "forks": 110
       }
     ],
@@ -9536,8 +9571,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6000,
-        "forks": 478
+        "stars": 6006,
+        "forks": 481
       }
     ],
     "baairon/torlink": [
@@ -9598,7 +9633,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5794,
+        "stars": 5797,
         "forks": 379
       }
     ],
@@ -9660,7 +9695,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5792,
+        "stars": 5793,
         "forks": 349
       }
     ],
@@ -9764,8 +9799,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5761,
-        "forks": 357
+        "stars": 5762,
+        "forks": 358
       }
     ],
     "diffusionstudio/lottie": [
@@ -9826,7 +9861,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5519,
+        "stars": 5521,
         "forks": 289
       }
     ],
@@ -9888,8 +9923,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 7036,
-        "forks": 365
+        "stars": 7074,
+        "forks": 367
       }
     ],
     "vercel/eve": [
@@ -10007,8 +10042,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5628,
-        "forks": 276
+        "stars": 5636,
+        "forks": 277
       }
     ],
     "bikini/exploitarium": [
@@ -10232,8 +10267,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6808,
-        "forks": 625
+        "stars": 6827,
+        "forks": 630
       }
     ],
     "CopilotKit/OpenBot": [
@@ -10294,8 +10329,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5671,
-        "forks": 746
+        "stars": 5685,
+        "forks": 747
       }
     ],
     "experientiallabs/experiential": [
@@ -10356,8 +10391,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 7299,
-        "forks": 212
+        "stars": 7348,
+        "forks": 213
       }
     ],
     "BYK/loreai": [
@@ -10370,6 +10405,11 @@
         "date": "2026-09-20",
         "stars": 115,
         "forks": 8
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 124,
+        "forks": 9
       }
     ],
     "ZaxbyHub/opencode-swarm": [
@@ -10519,8 +10559,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 3018,
-        "forks": 649
+        "stars": 3017,
+        "forks": 650
       }
     ],
     "rlaope/oh-my-hermes": [
@@ -10634,8 +10674,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 36531,
-        "forks": 9193
+        "stars": 36545,
+        "forks": 9195
       }
     ],
     "AmosHuKe/Mood-Example": [
@@ -10707,6 +10747,11 @@
         "date": "2026-09-17",
         "stars": 3165,
         "forks": 244
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 3173,
+        "forks": 246
       }
     ],
     "OCA/l10n-spain": [
@@ -10788,8 +10833,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 28193,
-        "forks": 3120
+        "stars": 28200,
+        "forks": 3124
       }
     ],
     "can1357/oh-my-pi": [
@@ -10850,8 +10895,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 33582,
-        "forks": 3591
+        "stars": 33635,
+        "forks": 3603
       }
     ],
     "linagora/twake-drive": [
@@ -11017,8 +11062,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 52208,
-        "forks": 5019
+        "stars": 52217,
+        "forks": 5021
       }
     ],
     "tt-a1i/archify": [
@@ -11079,8 +11124,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 73281,
-        "forks": 4951
+        "stars": 73517,
+        "forks": 4964
       }
     ],
     "WeblateOrg/weblate": [
@@ -11170,6 +11215,11 @@
       {
         "date": "2026-09-27",
         "stars": 501,
+        "forks": 32
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 502,
         "forks": 32
       }
     ],
@@ -11360,6 +11410,11 @@
         "date": "2026-09-27",
         "stars": 40773,
         "forks": 18826
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 40823,
+        "forks": 18856
       }
     ],
     "Homebrew/homebrew-core": [
@@ -11777,6 +11832,11 @@
         "date": "2026-09-26",
         "stars": 342,
         "forks": 88
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 366,
+        "forks": 95
       }
     ],
     "Leviidev/Fathom": [
@@ -11915,6 +11975,11 @@
         "date": "2026-09-27",
         "stars": 24,
         "forks": 11
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 24,
+        "forks": 11
       }
     ],
     "eliasstravik/gtm-skills": [
@@ -11987,7 +12052,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 11,
+        "stars": 12,
         "forks": 2
       }
     ],
@@ -13404,8 +13469,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 80347,
-        "forks": 5235
+        "stars": 80673,
+        "forks": 5252
       }
     ],
     "openJiuwen-ai/jiuwenswarm": [
@@ -13537,8 +13602,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 57498,
-        "forks": 5753
+        "stars": 57501,
+        "forks": 5757
       }
     ],
     "expo/expo": [
@@ -13698,7 +13763,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 2903,
+        "stars": 2905,
         "forks": 346
       }
     ],
@@ -14287,8 +14352,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 69619,
-        "forks": 5731
+        "stars": 69628,
+        "forks": 5735
       }
     ],
     "Blaizzy/mlx-vlm": [
@@ -14651,8 +14716,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 59781,
-        "forks": 11848
+        "stars": 59802,
+        "forks": 11860
       }
     ],
     "PostHog/posthog": [
@@ -14993,6 +15058,11 @@
         "date": "2026-09-27",
         "stars": 30,
         "forks": 3
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 31,
+        "forks": 3
       }
     ],
     "bardesss/haelan": [
@@ -15189,7 +15259,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 20,
+        "stars": 21,
         "forks": 0
       }
     ],
@@ -15563,7 +15633,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 172,
+        "stars": 174,
         "forks": 41
       }
     ],
@@ -16474,8 +16544,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1474,
-        "forks": 364
+        "stars": 1475,
+        "forks": 365
       }
     ],
     "mullvad/mullvadvpn-app": [
@@ -16850,6 +16920,11 @@
         "date": "2026-09-27",
         "stars": 3141,
         "forks": 914
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 3140,
+        "forks": 914
       }
     ],
     "hibernate/hibernate-orm": [
@@ -16869,6 +16944,11 @@
         "date": "2026-09-23",
         "stars": 618,
         "forks": 1329
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 619,
+        "forks": 1330
       }
     ],
     "nestjs/graphql": [
@@ -17052,6 +17132,11 @@
         "date": "2026-09-26",
         "stars": 2221,
         "forks": 292
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 2224,
+        "forks": 292
       }
     ],
     "zed-industries/zed": [
@@ -17207,8 +17292,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 31090,
-        "forks": 3108
+        "stars": 31147,
+        "forks": 3118
       }
     ],
     "spring-projects/spring-batch": [
@@ -18025,8 +18110,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 52695,
-        "forks": 5109
+        "stars": 52705,
+        "forks": 5137
       }
     ],
     "scraly/developers-conferences-agenda": [
@@ -18833,7 +18918,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 4768,
+        "stars": 4770,
         "forks": 3608
       }
     ],
@@ -19438,7 +19523,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 39901,
+        "stars": 39906,
         "forks": 5632
       }
     ],
@@ -19543,8 +19628,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 2020,
-        "forks": 329
+        "stars": 2021,
+        "forks": 330
       }
     ],
     "SchedMD/slurm": [
@@ -20272,8 +20357,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 7678,
-        "forks": 549
+        "stars": 7743,
+        "forks": 551
       }
     ],
     "meyamane37923-hash/komikku-scans": [
@@ -20683,6 +20768,11 @@
         "date": "2026-09-22",
         "stars": 34367,
         "forks": 4047
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 43904,
+        "forks": 5085
       }
     ],
     "hookzof/socks5_list": [
@@ -20827,6 +20917,11 @@
       {
         "date": "2026-09-26",
         "stars": 6042,
+        "forks": 1623
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 6045,
         "forks": 1623
       }
     ],
@@ -21050,6 +21145,11 @@
       {
         "date": "2026-09-23",
         "stars": 524,
+        "forks": 60
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 528,
         "forks": 60
       }
     ],
@@ -22139,8 +22239,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6871,
-        "forks": 632
+        "stars": 6877,
+        "forks": 633
       }
     ],
     "linny006/skills-tracker": [
@@ -22264,7 +22364,7 @@
       {
         "date": "2026-09-28",
         "stars": 12985,
-        "forks": 902
+        "forks": 903
       }
     ],
     "linny006/awesome-agent-skills": [
@@ -22394,8 +22494,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 4183,
-        "forks": 698
+        "stars": 4191,
+        "forks": 701
       }
     ],
     "futuregene/future-os": [
@@ -23126,7 +23226,7 @@
       {
         "date": "2026-09-28",
         "stars": 1648,
-        "forks": 174
+        "forks": 176
       }
     ],
     "ubugeeei-prod/vize": [
@@ -24452,8 +24552,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5957,
-        "forks": 982
+        "stars": 5967,
+        "forks": 986
       }
     ],
     "scverse/scanpy": [
@@ -24542,7 +24642,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 3095,
+        "stars": 3096,
         "forks": 228
       }
     ],
@@ -24794,8 +24894,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 4796,
-        "forks": 665
+        "stars": 4801,
+        "forks": 666
       }
     ],
     "haskell/haskell-language-server": [
@@ -25746,8 +25846,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1882,
-        "forks": 133
+        "stars": 2146,
+        "forks": 159
       }
     ],
     "zidniryi/unbagrnd": [
@@ -26222,6 +26322,11 @@
         "date": "2026-09-24",
         "stars": 1846,
         "forks": 901
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 1848,
+        "forks": 900
       }
     ],
     "paradigmxyz/reth": [
@@ -26935,6 +27040,11 @@
         "date": "2026-09-24",
         "stars": 6369,
         "forks": 513
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 6375,
+        "forks": 514
       }
     ],
     "MajkiIT/polish-ads-filter": [
@@ -27581,7 +27691,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 44194,
+        "stars": 44197,
         "forks": 8875
       }
     ],
@@ -27766,6 +27876,11 @@
         "date": "2026-09-27",
         "stars": 103383,
         "forks": 30654
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 103465,
+        "forks": 30843
       }
     ],
     "WordPress/gutenberg": [
@@ -27788,6 +27903,11 @@
         "date": "2026-09-25",
         "stars": 11760,
         "forks": 4912
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 11761,
+        "forks": 4913
       }
     ],
     "orioledb/orioledb": [
@@ -28504,8 +28624,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1743,
-        "forks": 244
+        "stars": 1749,
+        "forks": 246
       }
     ],
     "mit-pdos/xv6iris": [
@@ -28608,6 +28728,11 @@
         "date": "2026-09-27",
         "stars": 148,
         "forks": 13
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 166,
+        "forks": 15
       }
     ],
     "totec448-spec/chat-on-steroids": [
@@ -28901,7 +29026,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 11,
+        "stars": 12,
         "forks": 0
       }
     ],
@@ -29078,8 +29203,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 4181,
-        "forks": 1028
+        "stars": 4210,
+        "forks": 1036
       }
     ],
     "chippingway/chipping-orchestrator": [
@@ -29251,8 +29376,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 368392,
-        "forks": 45003
+        "stars": 368439,
+        "forks": 45006
       }
     ],
     "SidCorp-co/forge": [
@@ -29417,8 +29542,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 323730,
-        "forks": 28818
+        "stars": 323841,
+        "forks": 28827
       }
     ],
     "OpenCoven/coven-cave": [
@@ -29516,8 +29641,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 155028,
-        "forks": 25004
+        "stars": 155099,
+        "forks": 25019
       }
     ],
     "PM-Shawn/Abu-Cowork": [
@@ -29756,8 +29881,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 134383,
-        "forks": 20015
+        "stars": 134405,
+        "forks": 20016
       }
     ],
     "theflixerbox77/ralph-wiggum-codex": [
@@ -29904,8 +30029,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 95629,
-        "forks": 16742
+        "stars": 95640,
+        "forks": 16766
       }
     ],
     "awesome-selfhosted/awesome-selfhosted": [
@@ -29966,8 +30091,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 322391,
-        "forks": 15115
+        "stars": 322490,
+        "forks": 15121
       }
     ],
     "tonydzi/clawrush": [
@@ -30087,8 +30212,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 95272,
-        "forks": 12591
+        "stars": 95302,
+        "forks": 12592
       }
     ],
     "upstash/context7": [
@@ -30149,8 +30274,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 62491,
-        "forks": 3034
+        "stars": 62508,
+        "forks": 3035
       }
     ],
     "triggerdotdev/trigger.dev": [
@@ -30260,8 +30385,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 185975,
-        "forks": 13587
+        "stars": 186031,
+        "forks": 13589
       }
     ],
     "DemonDamon/AgenticX": [
@@ -30376,8 +30501,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 74478,
-        "forks": 15662
+        "stars": 74482,
+        "forks": 15661
       }
     ],
     "1c7/chinese-independent-developer": [
@@ -30438,8 +30563,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 61564,
-        "forks": 5415
+        "stars": 61568,
+        "forks": 5416
       }
     ],
     "BlocUnited-LLC/mozaiks": [
@@ -30585,7 +30710,7 @@
       {
         "date": "2026-09-28",
         "stars": 59588,
-        "forks": 3644
+        "forks": 3645
       }
     ],
     "f/prompts.chat": [
@@ -30646,7 +30771,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 171472,
+        "stars": 171504,
         "forks": 22007
       }
     ],
@@ -30725,8 +30850,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 54739,
-        "forks": 4772
+        "stars": 54770,
+        "forks": 4771
       }
     ],
     "ripienaar/free-for-dev": [
@@ -30787,8 +30912,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 138764,
-        "forks": 14649
+        "stars": 138799,
+        "forks": 14651
       }
     ],
     "AdamFrisby/CodeyBox": [
@@ -30881,8 +31006,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 140047,
-        "forks": 20567
+        "stars": 140078,
+        "forks": 20573
       }
     ],
     "HKUDS/CLI-Anything": [
@@ -30943,8 +31068,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 50843,
-        "forks": 4646
+        "stars": 50881,
+        "forks": 4647
       }
     ],
     "KeygraphHQ/shannon": [
@@ -31005,8 +31130,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 48454,
-        "forks": 5548
+        "stars": 48458,
+        "forks": 5551
       }
     ],
     "microsoft/generative-ai-for-beginners": [
@@ -31067,8 +31192,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 120713,
-        "forks": 63495
+        "stars": 120737,
+        "forks": 63505
       }
     ],
     "nextlevelbuilder/ui-ux-pro-max-skill": [
@@ -31129,8 +31254,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 131174,
-        "forks": 13945
+        "stars": 131263,
+        "forks": 13956
       }
     ],
     "deathemperor/infinitus": [
@@ -31317,8 +31442,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 49304,
-        "forks": 4475
+        "stars": 49310,
+        "forks": 4477
       }
     ],
     "VoltAgent/awesome-design-md": [
@@ -31379,8 +31504,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 118514,
-        "forks": 13251
+        "stars": 118589,
+        "forks": 13258
       }
     ],
     "evoila/meho": [
@@ -31453,8 +31578,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 94822,
-        "forks": 8388
+        "stars": 94848,
+        "forks": 8391
       }
     ],
     "richer-richard/cochlea": [
@@ -31586,8 +31711,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 115051,
-        "forks": 9032
+        "stars": 115068,
+        "forks": 9036
       }
     ],
     "daintreehq/daintree": [
@@ -31680,7 +31805,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 73423,
+        "stars": 73442,
         "forks": 8722
       }
     ],
@@ -31742,8 +31867,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 96811,
-        "forks": 6510
+        "stars": 96824,
+        "forks": 6512
       }
     ],
     "griffinwork40/agent-afk": [
@@ -31805,7 +31930,7 @@
       {
         "date": "2026-09-28",
         "stars": 55,
-        "forks": 15
+        "forks": 16
       }
     ],
     "VoltAgent/awesome-agent-skills": [
@@ -31866,8 +31991,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 34979,
-        "forks": 3737
+        "stars": 34993,
+        "forks": 3738
       }
     ],
     "datawhalechina/hello-agents": [
@@ -31928,8 +32053,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 81122,
-        "forks": 10087
+        "stars": 81151,
+        "forks": 10088
       }
     ],
     "wundercorp/loki": [
@@ -32032,8 +32157,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 25065,
-        "forks": 3220
+        "stars": 25078,
+        "forks": 3223
       }
     ],
     "jentic/jentic-public-apis": [
@@ -32116,8 +32241,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 66551,
-        "forks": 7418
+        "stars": 66562,
+        "forks": 7420
       }
     ],
     "linny006/claude-code-plugin-tracker": [
@@ -32356,8 +32481,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 10411,
-        "forks": 916
+        "stars": 10416,
+        "forks": 918
       }
     ],
     "shareAI-lab/learn-claude-code": [
@@ -32418,7 +32543,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 77742,
+        "stars": 77750,
         "forks": 12489
       }
     ],
@@ -32542,8 +32667,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 75778,
-        "forks": 8830
+        "stars": 75790,
+        "forks": 8831
       }
     ],
     "ai-boost/awesome-prompts": [
@@ -32604,7 +32729,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 8958,
+        "stars": 8960,
         "forks": 874
       }
     ],
@@ -32648,6 +32773,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 7,
+        "forks": 2
+      },
+      {
+        "date": "2026-09-28",
         "stars": 7,
         "forks": 2
       }
@@ -32710,7 +32840,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 49115,
+        "stars": 49114,
         "forks": 7731
       }
     ],
@@ -32773,7 +32903,7 @@
       {
         "date": "2026-09-28",
         "stars": 1586,
-        "forks": 304
+        "forks": 303
       }
     ],
     "aymericdamien/TopDeepLearning": [
@@ -32987,8 +33117,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 73543,
-        "forks": 9456
+        "stars": 73544,
+        "forks": 9457
       }
     ],
     "omartelo/lich": [
@@ -33056,8 +33186,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 483997,
-        "forks": 53474
+        "stars": 484101,
+        "forks": 53485
       }
     ],
     "taishi-i/awesome-ChatGPT-repositories": [
@@ -33118,8 +33248,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 3264,
-        "forks": 478
+        "stars": 3265,
+        "forks": 479
       }
     ],
     "sickn33/agentic-awesome-skills": [
@@ -33180,8 +33310,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 47021,
-        "forks": 6848
+        "stars": 47040,
+        "forks": 6851
       }
     ],
     "chunxiaoxx/nautilus-compass": [
@@ -33318,8 +33448,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 27404,
-        "forks": 2638
+        "stars": 27415,
+        "forks": 2639
       }
     ],
     "josephkamau32/devintel": [
@@ -33434,8 +33564,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 98454,
-        "forks": 11413
+        "stars": 98497,
+        "forks": 11420
       }
     ],
     "hwdsl2/docker-ollama": [
@@ -33525,8 +33655,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 70938,
-        "forks": 10094
+        "stars": 71072,
+        "forks": 10118
       }
     ],
     "abhay-yemekar/hirelens": [
@@ -33622,6 +33752,11 @@
       {
         "date": "2026-09-25",
         "stars": 6,
+        "forks": 3
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 5,
         "forks": 3
       }
     ],
@@ -33752,8 +33887,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 66496,
-        "forks": 6618
+        "stars": 66521,
+        "forks": 6617
       }
     ],
     "mem0ai/mem0": [
@@ -33814,8 +33949,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 66203,
-        "forks": 7786
+        "stars": 66237,
+        "forks": 7790
       }
     ],
     "NousResearch/hermes-agent": [
@@ -33876,8 +34011,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 249697,
-        "forks": 53148
+        "stars": 249788,
+        "forks": 53219
       }
     ],
     "beam-cloud/beta9": [
@@ -34124,8 +34259,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 41010,
-        "forks": 5461
+        "stars": 41009,
+        "forks": 5460
       }
     ],
     "EVEDensity/AgentHub": [
@@ -34198,8 +34333,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 61671,
-        "forks": 7849
+        "stars": 61726,
+        "forks": 7855
       }
     ],
     "mrdenox109-nyx/skill-manager": [
@@ -34301,8 +34436,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 30200,
-        "forks": 3531
+        "stars": 30201,
+        "forks": 3533
       }
     ],
     "0xLazAI/alith": [
@@ -34422,8 +34557,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 185791,
-        "forks": 9961
+        "stars": 185988,
+        "forks": 9963
       }
     ],
     "Eslzzyl/tidev": [
@@ -34563,8 +34698,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 155330,
-        "forks": 10147
+        "stars": 155341,
+        "forks": 10151
       }
     ],
     "m-sanchez/clawdeck": [
@@ -34632,7 +34767,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1138,
+        "stars": 1142,
         "forks": 128
       }
     ],
@@ -34694,8 +34829,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 52847,
-        "forks": 5055
+        "stars": 52853,
+        "forks": 5056
       }
     ],
     "geboai/Gebo.ai": [
@@ -34793,8 +34928,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 51776,
-        "forks": 7810
+        "stars": 51810,
+        "forks": 7816
       }
     ],
     "beadbox/beadbox": [
@@ -35237,6 +35372,11 @@
         "date": "2026-09-27",
         "stars": 21078,
         "forks": 5648
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 21103,
+        "forks": 5654
       }
     ],
     "enescingoz/awesome-n8n-templates": [
@@ -35297,8 +35437,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 25629,
-        "forks": 6479
+        "stars": 25639,
+        "forks": 6481
       }
     ],
     "JetBrains/thinkrail": [
@@ -35359,7 +35499,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 495,
+        "stars": 496,
         "forks": 39
       }
     ],
@@ -35448,8 +35588,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 153427,
-        "forks": 22446
+        "stars": 153452,
+        "forks": 22441
       }
     ],
     "eugenelim/agent-ready-repo": [
@@ -35572,8 +35712,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 138044,
-        "forks": 9353
+        "stars": 138111,
+        "forks": 9356
       }
     ],
     "SRCarlo/genai-course": [
@@ -35696,8 +35836,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 17769,
-        "forks": 4474
+        "stars": 17771,
+        "forks": 4477
       }
     ],
     "rootcastleco/rei-skills": [
@@ -35844,8 +35984,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6874,
-        "forks": 964
+        "stars": 6879,
+        "forks": 965
       }
     ],
     "Helicone/helicone": [
@@ -35987,8 +36127,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 30858,
-        "forks": 4125
+        "stars": 30938,
+        "forks": 4133
       }
     ],
     "aloth/awesome-ai-agents": [
@@ -36071,8 +36211,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 107170,
-        "forks": 14646
+        "stars": 107177,
+        "forks": 14647
       }
     ],
     "langroid/langroid": [
@@ -36212,8 +36352,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 108152,
-        "forks": 6269
+        "stars": 108204,
+        "forks": 6272
       }
     ],
     "J-nowcow/awesome-korean-agent-skills": [
@@ -36380,7 +36520,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 3330,
+        "stars": 3331,
         "forks": 312
       }
     ],
@@ -36454,8 +36594,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 116587,
-        "forks": 12851
+        "stars": 116625,
+        "forks": 12855
       }
     ],
     "agent-of-empires/agent-of-empires": [
@@ -36516,8 +36656,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 3297,
-        "forks": 364
+        "stars": 3298,
+        "forks": 365
       }
     ],
     "felladrin/MiniSearch": [
@@ -36700,7 +36840,7 @@
       {
         "date": "2026-09-28",
         "stars": 8990,
-        "forks": 1003
+        "forks": 1004
       }
     ],
     "teaql/teaql-rs": [
@@ -36793,7 +36933,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 21425,
+        "stars": 21426,
         "forks": 1062
       }
     ],
@@ -36908,7 +37048,7 @@
       {
         "date": "2026-09-28",
         "stars": 3584,
-        "forks": 318
+        "forks": 317
       }
     ],
     "keon/awesome-nlp": [
@@ -36970,7 +37110,7 @@
       {
         "date": "2026-09-28",
         "stars": 19045,
-        "forks": 2879
+        "forks": 2880
       }
     ],
     "cdeust/Cortex": [
@@ -37110,8 +37250,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 110014,
-        "forks": 13984
+        "stars": 110089,
+        "forks": 13994
       }
     ],
     "getzep/graphiti": [
@@ -37172,8 +37312,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 31256,
-        "forks": 3196
+        "stars": 31278,
+        "forks": 3201
       }
     ],
     "yamantaka520/Agent-Memory-OS": [
@@ -37293,8 +37433,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 24405,
-        "forks": 4121
+        "stars": 24407,
+        "forks": 4119
       }
     ],
     "OpenCut-app/OpenCut": [
@@ -37355,8 +37495,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 90846,
-        "forks": 8985
+        "stars": 90867,
+        "forks": 8990
       }
     ],
     "pathwaycom/pathway": [
@@ -37417,7 +37557,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 62215,
+        "stars": 62216,
         "forks": 1682
       }
     ],
@@ -37543,8 +37683,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 85917,
-        "forks": 7554
+        "stars": 85988,
+        "forks": 7560
       }
     ],
     "xuzhougeng/wisp-science": [
@@ -37694,8 +37834,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 20960,
-        "forks": 2607
+        "stars": 20961,
+        "forks": 2608
       }
     ],
     "mattpocock/skills": [
@@ -37756,8 +37896,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 271105,
-        "forks": 22826
+        "stars": 271312,
+        "forks": 22842
       }
     ],
     "Fmarzochi/EGC": [
@@ -37855,8 +37995,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 51488,
-        "forks": 5786
+        "stars": 51519,
+        "forks": 5788
       }
     ],
     "Tpain166/claude-dashboard": [
@@ -37939,8 +38079,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 99633,
-        "forks": 10460
+        "stars": 99691,
+        "forks": 10469
       }
     ],
     "D4Vinci/Scrapling": [
@@ -38001,8 +38141,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 84231,
-        "forks": 8611
+        "stars": 84331,
+        "forks": 8622
       }
     ],
     "genieincodebottle/generative-ai": [
@@ -38104,8 +38244,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 91803,
-        "forks": 15818
+        "stars": 92689,
+        "forks": 15880
       }
     ],
     "mozilla-ai/otari": [
@@ -38341,8 +38481,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 16329,
-        "forks": 1195
+        "stars": 16331,
+        "forks": 1193
       }
     ],
     "xorbitsai/inference": [
@@ -38465,8 +38605,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 90814,
-        "forks": 6177
+        "stars": 90912,
+        "forks": 6178
       }
     ],
     "Graphify-Labs/graphify": [
@@ -38527,8 +38667,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 122028,
-        "forks": 11756
+        "stars": 122146,
+        "forks": 11768
       }
     ],
     "ELSAKKK/mnemos-mcp": [
@@ -38631,8 +38771,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 74293,
-        "forks": 6752
+        "stars": 74299,
+        "forks": 6753
       }
     ],
     "digoal/blog": [
@@ -38777,7 +38917,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6345,
+        "stars": 6344,
         "forks": 770
       }
     ],
@@ -39002,8 +39142,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 83149,
-        "forks": 11533
+        "stars": 83163,
+        "forks": 11531
       }
     ],
     "flupkede/codesearch": [
@@ -39071,8 +39211,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 74718,
-        "forks": 4269
+        "stars": 74723,
+        "forks": 4271
       }
     ],
     "doublewordai/control-layer": [
@@ -39207,7 +39347,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 73577,
+        "stars": 73595,
         "forks": 7617
       }
     ],
@@ -39346,6 +39486,11 @@
         "date": "2026-09-24",
         "stars": 267,
         "forks": 31
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 268,
+        "forks": 32
       }
     ],
     "vercel/ai": [
@@ -39444,7 +39589,7 @@
       {
         "date": "2026-09-28",
         "stars": 66739,
-        "forks": 13497
+        "forks": 13495
       }
     ],
     "headroomlabs-ai/headroom": [
@@ -39505,8 +39650,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 74005,
-        "forks": 5714
+        "stars": 74030,
+        "forks": 5719
       }
     ],
     "rohitg00/ai-engineering-from-scratch": [
@@ -39567,8 +39712,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 60093,
-        "forks": 10350
+        "stars": 60362,
+        "forks": 10391
       }
     ],
     "microsoft/LMOps": [
@@ -39629,7 +39774,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 4476,
+        "stars": 4477,
         "forks": 381
       }
     ],
@@ -39691,8 +39836,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 71697,
-        "forks": 5643
+        "stars": 71695,
+        "forks": 5645
       }
     ],
     "jztan/pdf-mcp": [
@@ -39780,8 +39925,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 4562,
-        "forks": 586
+        "stars": 4567,
+        "forks": 590
       }
     ],
     "ardeyouxipianyi/workbuddy2api-hub": [
@@ -39842,8 +39987,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 415,
-        "forks": 104
+        "stars": 421,
+        "forks": 106
       }
     ],
     "colbymchenry/codegraph": [
@@ -39904,8 +40049,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 72252,
-        "forks": 4636
+        "stars": 72276,
+        "forks": 4638
       }
     ],
     "xintaofei/codeg": [
@@ -39948,6 +40093,11 @@
         "date": "2026-09-24",
         "stars": 3677,
         "forks": 475
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 3726,
+        "forks": 480
       }
     ],
     "rootflo/wavefront": [
@@ -40025,8 +40175,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 45269,
-        "forks": 3710
+        "stars": 45370,
+        "forks": 3719
       }
     ],
     "DSXiangLi/DecryptPrompt": [
@@ -40201,8 +40351,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 43311,
-        "forks": 2910
+        "stars": 43321,
+        "forks": 2917
       }
     ],
     "SummerPapaya/summertown": [
@@ -40300,8 +40450,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 41702,
-        "forks": 5120
+        "stars": 41703,
+        "forks": 5119
       }
     ],
     "mustbeperfect/definitive-opensource": [
@@ -40430,6 +40580,11 @@
         "date": "2026-09-27",
         "stars": 6,
         "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 6,
+        "forks": 0
       }
     ],
     "usestrix/strix": [
@@ -40490,8 +40645,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 65327,
-        "forks": 7172
+        "stars": 65396,
+        "forks": 7179
       }
     ],
     "patchy631/ai-engineering-hub": [
@@ -40552,8 +40707,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 38067,
-        "forks": 6256
+        "stars": 38073,
+        "forks": 6254
       }
     ],
     "antonellof/ferrox": [
@@ -40737,8 +40892,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 40148,
-        "forks": 3962
+        "stars": 40156,
+        "forks": 3963
       }
     ],
     "mvanhorn/last30days-skill": [
@@ -40799,8 +40954,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 63095,
-        "forks": 5489
+        "stars": 63116,
+        "forks": 5494
       }
     ],
     "marcominerva/SqlDatabaseVectorSearch": [
@@ -40930,7 +41085,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 37989,
+        "stars": 37990,
         "forks": 4959
       }
     ],
@@ -41261,8 +41416,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 8171,
-        "forks": 1631
+        "stars": 8172,
+        "forks": 1632
       }
     ],
     "answerLoops/answerLoops": [
@@ -41283,6 +41438,11 @@
       },
       {
         "date": "2026-09-24",
+        "stars": 9,
+        "forks": 0
+      },
+      {
+        "date": "2026-09-28",
         "stars": 9,
         "forks": 0
       }
@@ -41392,8 +41552,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 26947,
-        "forks": 1561
+        "stars": 26959,
+        "forks": 1562
       }
     ],
     "redhat-community-ai-tools/UnifAI": [
@@ -41589,8 +41749,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 58432,
-        "forks": 10135
+        "stars": 58435,
+        "forks": 10134
       }
     ],
     "jpezzulli/sglang-rtxpro6000": [
@@ -41651,7 +41811,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 110,
+        "stars": 111,
         "forks": 16
       }
     ],
@@ -41713,8 +41873,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 7359,
-        "forks": 808
+        "stars": 7374,
+        "forks": 811
       }
     ],
     "Zeus-Deus/codemux": [
@@ -41841,7 +42001,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 55894,
+        "stars": 55924,
         "forks": 6967
       }
     ],
@@ -42012,7 +42172,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 41,
+        "stars": 42,
         "forks": 11
       }
     ],
@@ -42086,8 +42246,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1640,
-        "forks": 194
+        "stars": 1641,
+        "forks": 193
       }
     ],
     "tianemon/EasyMint": [
@@ -42375,8 +42535,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 858,
-        "forks": 134
+        "stars": 859,
+        "forks": 135
       }
     ],
     "heygen-com/hyperframes": [
@@ -42437,8 +42597,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 53791,
-        "forks": 4903
+        "stars": 53900,
+        "forks": 4913
       }
     ],
     "frontman-ai/frontman": [
@@ -42459,7 +42619,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 706,
+        "stars": 707,
         "forks": 51
       }
     ],
@@ -42516,8 +42676,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 9799,
-        "forks": 1225
+        "stars": 9808,
+        "forks": 1227
       }
     ],
     "lukasz-madon/awesome-remote-job": [
@@ -42578,7 +42738,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 49034,
+        "stars": 49047,
         "forks": 4824
       }
     ],
@@ -42692,8 +42852,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 139234,
-        "forks": 12472
+        "stars": 139279,
+        "forks": 12477
       }
     ],
     "sgaabdu4/hard-eng": [
@@ -42776,8 +42936,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 47631,
-        "forks": 5181
+        "stars": 47633,
+        "forks": 5178
       }
     ],
     "ashishpatel26/500-AI-Agents-Projects": [
@@ -42838,8 +42998,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 38145,
-        "forks": 6823
+        "stars": 38153,
+        "forks": 6825
       }
     ],
     "kstrat2001/darkmux": [
@@ -42995,7 +43155,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 50620,
+        "stars": 50626,
         "forks": 3531
       }
     ],
@@ -43086,6 +43246,11 @@
       },
       {
         "date": "2026-09-23",
+        "stars": 23,
+        "forks": 2
+      },
+      {
+        "date": "2026-09-28",
         "stars": 23,
         "forks": 2
       }
@@ -43242,8 +43407,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 51550,
-        "forks": 6688
+        "stars": 51579,
+        "forks": 6693
       }
     ],
     "router-for-me/CLIProxyAPI": [
@@ -43304,8 +43469,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 53403,
-        "forks": 8053
+        "stars": 53425,
+        "forks": 8054
       }
     ],
     "xw000113-create/agent-search-cli": [
@@ -43385,6 +43550,11 @@
         "date": "2026-09-25",
         "stars": 60,
         "forks": 5
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 62,
+        "forks": 6
       }
     ],
     "kekzl/imp": [
@@ -43581,8 +43751,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 46953,
-        "forks": 4236
+        "stars": 46991,
+        "forks": 4238
       }
     ],
     "gebruder/wirken": [
@@ -43714,8 +43884,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 37582,
-        "forks": 4666
+        "stars": 37585,
+        "forks": 4667
       }
     ],
     "monster-echo/CortexTerminal2": [
@@ -44075,8 +44245,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 4433,
-        "forks": 441
+        "stars": 4434,
+        "forks": 442
       }
     ],
     "hwdsl2/docker-embeddings": [
@@ -44619,6 +44789,11 @@
         "date": "2026-09-23",
         "stars": 23,
         "forks": 23
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 23,
+        "forks": 25
       }
     ],
     "Mohith-akash/Global-News-Intel-Platform": [
@@ -44686,8 +44861,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 29615,
-        "forks": 3625
+        "stars": 29622,
+        "forks": 3624
       }
     ],
     "Keith-CY/idx.md": [
@@ -44736,6 +44911,11 @@
       {
         "date": "2026-09-24",
         "stars": 35,
+        "forks": 1
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 40,
         "forks": 1
       }
     ],
@@ -44844,7 +45024,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 76515,
+        "stars": 76521,
         "forks": 24825
       }
     ],
@@ -44961,6 +45141,11 @@
         "date": "2026-09-26",
         "stars": 711,
         "forks": 108
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 712,
+        "forks": 110
       }
     ],
     "Sistema2D/FrameCode-VibeWork": [
@@ -45043,8 +45228,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 53031,
-        "forks": 6374
+        "stars": 53043,
+        "forks": 6375
       }
     ],
     "ChaitanyaEswarRajeshJakki/gemini-youtube-automation": [
@@ -45605,8 +45790,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 38878,
-        "forks": 3034
+        "stars": 38902,
+        "forks": 3038
       }
     ],
     "linny006/agent-framework-radar": [
@@ -45729,8 +45914,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 21159,
-        "forks": 2395
+        "stars": 21161,
+        "forks": 2396
       }
     ],
     "avibe-bot/avibe": [
@@ -45791,8 +45976,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 573,
-        "forks": 89
+        "stars": 577,
+        "forks": 91
       }
     ],
     "warwick-bit/llm-accuracy": [
@@ -45897,7 +46082,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 19200,
+        "stars": 19203,
         "forks": 1386
       }
     ],
@@ -46136,7 +46321,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 844,
+        "stars": 845,
         "forks": 190
       }
     ],
@@ -46198,7 +46383,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 591,
+        "stars": 593,
         "forks": 77
       }
     ],
@@ -46291,7 +46476,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1774,
+        "stars": 1777,
         "forks": 308
       }
     ],
@@ -46354,7 +46539,7 @@
       {
         "date": "2026-09-28",
         "stars": 9492,
-        "forks": 2930
+        "forks": 2929
       }
     ],
     "rupamsamanta123/PDF-QA-RAG-System": [
@@ -46634,8 +46819,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 9263,
-        "forks": 922
+        "stars": 9266,
+        "forks": 923
       }
     ],
     "llmmanorg/llmman": [
@@ -46750,8 +46935,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 4529,
-        "forks": 607
+        "stars": 4528,
+        "forks": 606
       }
     ],
     "sxueck/llm-gateway": [
@@ -46854,8 +47039,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 7361,
-        "forks": 1365
+        "stars": 7365,
+        "forks": 1366
       }
     ],
     "lhotwll217/owner-operator": [
@@ -46923,8 +47108,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 268712,
-        "forks": 40142
+        "stars": 268962,
+        "forks": 40178
       }
     ],
     "SenseiOguz/Dual-AI-Chat": [
@@ -47083,7 +47268,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5791,
+        "stars": 5792,
         "forks": 511
       }
     ],
@@ -47351,6 +47536,11 @@
         "date": "2026-09-26",
         "stars": 4406,
         "forks": 426
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 4477,
+        "forks": 435
       }
     ],
     "FlorianBruniaux/claude-code-ultimate-guide": [
@@ -47411,7 +47601,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6048,
+        "stars": 6052,
         "forks": 795
       }
     ],
@@ -47497,7 +47687,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 26636,
+        "stars": 26642,
         "forks": 2837
       }
     ],
@@ -47560,7 +47750,7 @@
       {
         "date": "2026-09-28",
         "stars": 4329,
-        "forks": 2082
+        "forks": 2084
       }
     ],
     "AishwaryShrivastav/vibe-testing": [
@@ -47618,7 +47808,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1148,
+        "stars": 1149,
         "forks": 140
       }
     ],
@@ -47687,8 +47877,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5765,
-        "forks": 665
+        "stars": 5766,
+        "forks": 666
       }
     ],
     "MemPalace/mempalace": [
@@ -47749,8 +47939,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 59328,
-        "forks": 7561
+        "stars": 59340,
+        "forks": 7560
       }
     ],
     "datawhalechina/easy-vibe": [
@@ -47811,8 +48001,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 19565,
-        "forks": 1871
+        "stars": 19566,
+        "forks": 1872
       }
     ],
     "tensorcast-ai/tensorcast": [
@@ -48103,6 +48293,11 @@
         "date": "2026-09-26",
         "stars": 4206,
         "forks": 551
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 4212,
+        "forks": 552
       }
     ],
     "townsendmerino/goinfer": [
@@ -48374,7 +48569,7 @@
       {
         "date": "2026-09-28",
         "stars": 6516,
-        "forks": 1506
+        "forks": 1508
       }
     ],
     "bragai/bRAG-langchain": [
@@ -48868,8 +49063,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 15995,
-        "forks": 1068
+        "stars": 15997,
+        "forks": 1069
       }
     ],
     "TencentCloudBase/CloudBase-AI-Toolkit": [
@@ -48992,7 +49187,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 41037,
+        "stars": 41038,
         "forks": 3565
       }
     ],
@@ -49100,7 +49295,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 402,
+        "stars": 403,
         "forks": 26
       }
     ],
@@ -49157,7 +49352,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1339,
+        "stars": 1341,
         "forks": 202
       }
     ],
@@ -49300,8 +49495,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 40422,
-        "forks": 5097
+        "stars": 40446,
+        "forks": 5104
       }
     ],
     "derisk-ai/OpenDerisk": [
@@ -49783,8 +49978,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 39390,
-        "forks": 3519
+        "stars": 39395,
+        "forks": 3520
       }
     ],
     "tw93/Kaku": [
@@ -49934,7 +50129,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 9312,
+        "stars": 9313,
         "forks": 466
       }
     ],
@@ -50045,8 +50240,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 39471,
-        "forks": 5016
+        "stars": 39482,
+        "forks": 5018
       }
     ],
     "ArcadeData/arcadedb": [
@@ -50388,8 +50583,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 11548,
-        "forks": 1075
+        "stars": 11551,
+        "forks": 1076
       }
     ],
     "nam271212/strategic-advisor-orchestrator": [
@@ -50856,8 +51051,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 59429,
-        "forks": 2719
+        "stars": 59433,
+        "forks": 2718
       }
     ],
     "1iry/multi-agent-architecture-advisor": [
@@ -51009,6 +51204,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 13,
+        "forks": 4
+      },
+      {
+        "date": "2026-09-28",
         "stars": 13,
         "forks": 4
       }
@@ -51295,7 +51495,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 2525,
+        "stars": 2528,
         "forks": 228
       }
     ],
@@ -51673,8 +51873,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 617,
-        "forks": 50
+        "stars": 627,
+        "forks": 52
       }
     ],
     "ChenZiHong-Gavin/weekly-vibe-coding": [
@@ -51963,6 +52163,11 @@
         "date": "2026-09-26",
         "stars": 1506,
         "forks": 181
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 1510,
+        "forks": 181
       }
     ],
     "SidhuK/Glyph": [
@@ -52180,7 +52385,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6034,
+        "stars": 6037,
         "forks": 1708
       }
     ],
@@ -52237,6 +52442,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 112,
+        "forks": 140
+      },
+      {
+        "date": "2026-09-28",
         "stars": 112,
         "forks": 140
       }
@@ -52657,6 +52867,11 @@
       },
       {
         "date": "2026-09-26",
+        "stars": 15,
+        "forks": 6
+      },
+      {
+        "date": "2026-09-28",
         "stars": 15,
         "forks": 6
       }
@@ -53281,6 +53496,11 @@
         "date": "2026-09-27",
         "stars": 6456,
         "forks": 854
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 6457,
+        "forks": 853
       }
     ],
     "kentcdodds/kody": [
@@ -53341,7 +53561,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 684,
+        "stars": 685,
         "forks": 66
       }
     ],
@@ -53403,8 +53623,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 381,
-        "forks": 39
+        "stars": 406,
+        "forks": 41
       }
     ],
     "yangheng95/opencorvus": [
@@ -53686,7 +53906,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 811,
+        "stars": 812,
         "forks": 84
       }
     ],
@@ -53890,6 +54110,11 @@
         "date": "2026-09-27",
         "stars": 5,
         "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 5,
+        "forks": 0
       }
     ],
     "receptron/mulmoclaude": [
@@ -53957,6 +54182,11 @@
     "requestyai/ai-sdk-requesty": [
       {
         "date": "2026-09-17",
+        "stars": 11,
+        "forks": 2
+      },
+      {
+        "date": "2026-09-28",
         "stars": 11,
         "forks": 2
       }
@@ -54030,6 +54260,11 @@
         "date": "2026-09-27",
         "stars": 30851,
         "forks": 12808
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 30858,
+        "forks": 12806
       }
     ],
     "awarexone/AXguard": [
@@ -54220,7 +54455,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 320,
+        "stars": 321,
         "forks": 26
       }
     ],
@@ -54679,7 +54914,7 @@
       {
         "date": "2026-09-28",
         "stars": 18028,
-        "forks": 4571
+        "forks": 4575
       }
     ],
     "clacky-ai/openclacky": [
@@ -54967,6 +55202,11 @@
         "date": "2026-09-26",
         "stars": 733,
         "forks": 35
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 769,
+        "forks": 37
       }
     ],
     "aborroy/content-lake-app": [
@@ -55051,6 +55291,11 @@
       },
       {
         "date": "2026-09-24",
+        "stars": 62,
+        "forks": 11
+      },
+      {
+        "date": "2026-09-28",
         "stars": 62,
         "forks": 11
       }
@@ -55405,6 +55650,11 @@
         "date": "2026-09-27",
         "stars": 182,
         "forks": 21
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 183,
+        "forks": 21
       }
     ],
     "blueberrycongee/wuu": [
@@ -55499,8 +55749,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 3548,
-        "forks": 333
+        "stars": 3553,
+        "forks": 334
       }
     ],
     "software-mansion/react-native-executorch": [
@@ -56845,6 +57095,11 @@
         "date": "2026-09-27",
         "stars": 27,
         "forks": 2
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 28,
+        "forks": 2
       }
     ],
     "mrkkrp/ahab": [
@@ -57098,8 +57353,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 3434,
-        "forks": 98
+        "stars": 3441,
+        "forks": 99
       }
     ],
     "vinnylarouge/jevlike": [
@@ -57201,8 +57456,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 21032,
-        "forks": 1450
+        "stars": 21137,
+        "forks": 1462
       }
     ],
     "uutils/coreutils": [
@@ -57853,7 +58108,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 607,
+        "stars": 611,
         "forks": 57
       }
     ],
@@ -58001,8 +58256,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5742,
-        "forks": 301
+        "stars": 5781,
+        "forks": 302
       }
     ],
     "Tyrrrz/DiscordChatExporter": [
@@ -58063,7 +58318,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 12097,
+        "stars": 12098,
         "forks": 1027
       }
     ],
@@ -58125,7 +58380,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 4412,
+        "stars": 4421,
         "forks": 118
       }
     ],
@@ -58249,7 +58504,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 2486,
+        "stars": 2489,
         "forks": 103
       }
     ],
@@ -58435,7 +58690,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 15243,
+        "stars": 15244,
         "forks": 586
       }
     ],
@@ -58497,8 +58752,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5776,
-        "forks": 252
+        "stars": 5782,
+        "forks": 253
       }
     ],
     "bk138/droidVNC-NG": [
@@ -58621,8 +58876,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 4445,
-        "forks": 331
+        "stars": 4447,
+        "forks": 332
       }
     ],
     "microsoft/flint-chart": [
@@ -58683,7 +58938,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 4307,
+        "stars": 4310,
         "forks": 241
       }
     ],
@@ -58745,7 +59000,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 15476,
+        "stars": 15477,
         "forks": 665
       }
     ],
@@ -58807,7 +59062,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 956,
+        "stars": 958,
         "forks": 192
       }
     ],
@@ -58869,8 +59124,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 35149,
-        "forks": 3705
+        "stars": 35164,
+        "forks": 3708
       }
     ],
     "87owo/PYAS": [
@@ -58932,7 +59187,7 @@
       {
         "date": "2026-09-28",
         "stars": 557,
-        "forks": 49
+        "forks": 50
       }
     ],
     "Jasonzhu1207/ZenConverter": [
@@ -58993,7 +59248,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1561,
+        "stars": 1562,
         "forks": 55
       }
     ],
@@ -59055,7 +59310,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1676,
+        "stars": 1679,
         "forks": 166
       }
     ],
@@ -59117,7 +59372,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5323,
+        "stars": 5325,
         "forks": 306
       }
     ],
@@ -59241,7 +59496,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 914,
+        "stars": 916,
         "forks": 49
       }
     ],
@@ -59303,7 +59558,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 3235,
+        "stars": 3237,
         "forks": 275
       }
     ],
@@ -59365,7 +59620,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 3315,
+        "stars": 3318,
         "forks": 223
       }
     ],
@@ -59427,8 +59682,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 51781,
-        "forks": 2984
+        "stars": 51884,
+        "forks": 2986
       }
     ],
     "sarensw/MacPacker": [
@@ -59489,7 +59744,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 800,
+        "stars": 802,
         "forks": 36
       }
     ],
@@ -59551,8 +59806,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 9026,
-        "forks": 678
+        "stars": 9035,
+        "forks": 679
       }
     ],
     "didriksg/Crisp": [
@@ -59613,7 +59868,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1915,
+        "stars": 1917,
         "forks": 81
       }
     ],
@@ -59675,8 +59930,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 32857,
-        "forks": 3433
+        "stars": 32898,
+        "forks": 3437
       }
     ],
     "pipecat-ai/pipecat": [
@@ -59737,8 +59992,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 15938,
-        "forks": 2770
+        "stars": 15946,
+        "forks": 2772
       }
     ],
     "shmimel/bee-write-back": [
@@ -59861,8 +60116,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1824,
-        "forks": 152
+        "stars": 1825,
+        "forks": 153
       }
     ],
     "IHaskell/IHaskell": [
@@ -59985,8 +60240,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1612,
-        "forks": 98
+        "stars": 1614,
+        "forks": 99
       }
     ],
     "Orbmu2k/nvidiaProfileInspector": [
@@ -60109,7 +60364,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6216,
+        "stars": 6219,
         "forks": 224
       }
     ],
@@ -60171,7 +60426,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 11620,
+        "stars": 11624,
         "forks": 980
       }
     ],
@@ -60233,7 +60488,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 9070,
+        "stars": 9071,
         "forks": 661
       }
     ],
@@ -60295,7 +60550,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 4848,
+        "stars": 4849,
         "forks": 606
       }
     ],
@@ -60419,8 +60674,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 7498,
-        "forks": 630
+        "stars": 7514,
+        "forks": 633
       }
     ],
     "tamnd/kage": [
@@ -60605,8 +60860,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6421,
-        "forks": 1262
+        "stars": 6422,
+        "forks": 1263
       }
     ],
     "karakeep-app/karakeep": [
@@ -60667,7 +60922,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 29326,
+        "stars": 29333,
         "forks": 1540
       }
     ],
@@ -60729,8 +60984,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1800,
-        "forks": 111
+        "stars": 1801,
+        "forks": 112
       }
     ],
     "facebook/astryx": [
@@ -60791,8 +61046,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 13480,
-        "forks": 1162
+        "stars": 13482,
+        "forks": 1163
       }
     ],
     "liketrek/TREK": [
@@ -60853,7 +61108,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 14427,
+        "stars": 14438,
         "forks": 1248
       }
     ],
@@ -60915,8 +61170,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 10856,
-        "forks": 1156
+        "stars": 10860,
+        "forks": 1157
       }
     ],
     "denizsafak/abogen": [
@@ -61101,7 +61356,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 3690,
+        "stars": 3692,
         "forks": 131
       }
     ],
@@ -61163,7 +61418,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 4131,
+        "stars": 4132,
         "forks": 196
       }
     ],
@@ -61225,8 +61480,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 17761,
-        "forks": 1829
+        "stars": 17782,
+        "forks": 1830
       }
     ],
     "BigDawnGhost/wenyi": [
@@ -61349,8 +61604,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 41172,
-        "forks": 3166
+        "stars": 41264,
+        "forks": 3171
       }
     ],
     "Nutlope/hallmark": [
@@ -61411,8 +61666,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 29240,
-        "forks": 1501
+        "stars": 29260,
+        "forks": 1502
       }
     ],
     "Automattic/harper": [
@@ -61473,8 +61728,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 15998,
-        "forks": 687
+        "stars": 16009,
+        "forks": 688
       }
     ],
     "peetzweg/opendisplay": [
@@ -61535,8 +61790,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 4858,
-        "forks": 323
+        "stars": 4866,
+        "forks": 325
       }
     ],
     "gechr/WhichSpace": [
@@ -61721,8 +61976,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5662,
-        "forks": 1873
+        "stars": 5670,
+        "forks": 1879
       }
     ],
     "dottxt-ai/outlines": [
@@ -61783,7 +62038,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 15889,
+        "stars": 15891,
         "forks": 890
       }
     ],
@@ -61845,8 +62100,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 18207,
-        "forks": 1674
+        "stars": 18206,
+        "forks": 1675
       }
     ],
     "crosspoint-reader/crosspoint-reader": [
@@ -61907,8 +62162,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 8099,
-        "forks": 1898
+        "stars": 8110,
+        "forks": 1905
       }
     ],
     "lollipopkit/flutter_server_box": [
@@ -61969,7 +62224,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 8755,
+        "stars": 8754,
         "forks": 561
       }
     ],
@@ -62031,7 +62286,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 22378,
+        "stars": 22387,
         "forks": 2860
       }
     ],
@@ -62093,7 +62348,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 31824,
+        "stars": 31828,
         "forks": 2912
       }
     ],
@@ -64296,8 +64551,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5041,
-        "forks": 551
+        "stars": 5042,
+        "forks": 550
       }
     ],
     "multimodal-art-projection/YuE": [
@@ -64348,8 +64603,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 10497,
-        "forks": 1199
+        "stars": 10515,
+        "forks": 1203
       }
     ],
     "datacurve-ai/pier": [
@@ -64534,7 +64789,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 354,
+        "stars": 356,
         "forks": 32
       }
     ],
@@ -64754,8 +65009,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 32471,
-        "forks": 3651
+        "stars": 32482,
+        "forks": 3652
       }
     ],
     "Tencent-Hunyuan/AuK": [
@@ -64825,6 +65080,11 @@
         "date": "2026-09-27",
         "stars": 34617,
         "forks": 7351
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 34629,
+        "forks": 7358
       }
     ],
     "Comfy-Org/ComfyUI": [
@@ -64885,8 +65145,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 135327,
-        "forks": 16037
+        "stars": 135368,
+        "forks": 16044
       }
     ],
     "Comfy-Org/workflow_templates": [
@@ -64947,7 +65207,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1021,
+        "stars": 1023,
         "forks": 202
       }
     ],
@@ -65004,7 +65264,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 395,
+        "stars": 400,
         "forks": 21
       }
     ],
@@ -65145,7 +65405,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 19544,
+        "stars": 19546,
         "forks": 1581
       }
     ],
@@ -65224,8 +65484,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 166755,
-        "forks": 34704
+        "stars": 166768,
+        "forks": 34707
       }
     ],
     "ostris/ai-toolkit": [
@@ -65740,6 +66000,11 @@
         "date": "2026-09-27",
         "stars": 62,
         "forks": 4
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 62,
+        "forks": 4
       }
     ],
     "Rhuan-Marques/aracne": [
@@ -65840,8 +66105,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 20234,
-        "forks": 2802
+        "stars": 20239,
+        "forks": 2808
       }
     ],
     "AKzar1el/god-prompt": [
@@ -66661,8 +66926,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 39861,
-        "forks": 5315
+        "stars": 40907,
+        "forks": 5532
       }
     ],
     "armada-os/armada": [
@@ -66772,6 +67037,11 @@
         "date": "2026-09-22",
         "stars": 543,
         "forks": 67
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 551,
+        "forks": 69
       }
     ],
     "Fatal1ty/mashumaro": [
@@ -67094,6 +67364,11 @@
       {
         "date": "2026-09-27",
         "stars": 280,
+        "forks": 22
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 281,
         "forks": 22
       }
     ],
@@ -67885,6 +68160,11 @@
         "date": "2026-09-24",
         "stars": 9848,
         "forks": 8570
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 9869,
+        "forks": 8585
       }
     ],
     "Fzkuji/OpenProgram": [
@@ -68077,7 +68357,7 @@
       {
         "date": "2026-09-28",
         "stars": 128,
-        "forks": 32
+        "forks": 35
       }
     ],
     "srelens/srelens": [
@@ -68733,8 +69013,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 42166,
-        "forks": 3028
+        "stars": 42279,
+        "forks": 3034
       }
     ],
     "microsoft/vscode": [
@@ -69877,7 +70157,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 2233,
+        "stars": 2237,
         "forks": 122
       }
     ],
@@ -69930,8 +70210,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 3549,
-        "forks": 446
+        "stars": 3579,
+        "forks": 447
       }
     ],
     "spring-cloud/spring-cloud-openfeign": [
@@ -71313,7 +71593,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 2335,
+        "stars": 2336,
         "forks": 381
       }
     ],
@@ -71368,6 +71648,11 @@
       {
         "date": "2026-09-27",
         "stars": 129,
+        "forks": 19
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 131,
         "forks": 19
       }
     ],
@@ -71657,6 +71942,11 @@
         "date": "2026-09-23",
         "stars": 6,
         "forks": 3
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 6,
+        "forks": 3
       }
     ],
     "google/adk-python": [
@@ -71689,6 +71979,11 @@
         "date": "2026-09-26",
         "stars": 21647,
         "forks": 4064
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 21671,
+        "forks": 4075
       }
     ],
     "NSPG13/agent-bounties": [
@@ -71756,6 +72051,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 14,
+        "forks": 5
+      },
+      {
+        "date": "2026-09-28",
         "stars": 14,
         "forks": 5
       }
@@ -72004,7 +72304,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 3857,
+        "stars": 3859,
         "forks": 424
       }
     ],
@@ -72448,8 +72748,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 2713,
-        "forks": 275
+        "stars": 2750,
+        "forks": 280
       }
     ],
     "termaxa/termaxa": [
@@ -72706,7 +73006,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 4304,
+        "stars": 4303,
         "forks": 388
       }
     ],
@@ -72755,6 +73055,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 116,
+        "forks": 123
+      },
+      {
+        "date": "2026-09-28",
         "stars": 116,
         "forks": 123
       }
@@ -72999,8 +73304,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1969,
-        "forks": 331
+        "stars": 1972,
+        "forks": 332
       }
     ],
     "nibor1896/Crow": [
@@ -73340,7 +73645,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 800,
+        "stars": 802,
         "forks": 52
       }
     ],
@@ -73464,7 +73769,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 2717,
+        "stars": 2719,
         "forks": 367
       }
     ],
@@ -74188,6 +74493,11 @@
         "date": "2026-09-27",
         "stars": 127,
         "forks": 9
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 128,
+        "forks": 9
       }
     ],
     "onyx-dot-app/onyx": [
@@ -74243,8 +74553,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 32266,
-        "forks": 4511
+        "stars": 32272,
+        "forks": 4514
       }
     ],
     "XiaoMaColtAI/math-modeling-skill": [
@@ -74306,7 +74616,7 @@
       {
         "date": "2026-09-28",
         "stars": 1849,
-        "forks": 101
+        "forks": 100
       }
     ],
     "alex-jb/vibex": [
@@ -74466,7 +74776,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1626,
+        "stars": 1628,
         "forks": 223
       }
     ],
@@ -74493,6 +74803,11 @@
       },
       {
         "date": "2026-09-24",
+        "stars": 380,
+        "forks": 128
+      },
+      {
+        "date": "2026-09-28",
         "stars": 380,
         "forks": 128
       }
@@ -74573,6 +74888,11 @@
       {
         "date": "2026-09-27",
         "stars": 9,
+        "forks": 1
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 10,
         "forks": 1
       }
     ],
@@ -74759,7 +75079,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 403,
+        "stars": 404,
         "forks": 69
       }
     ],
@@ -75231,6 +75551,11 @@
         "date": "2026-09-24",
         "stars": 9,
         "forks": 6
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 9,
+        "forks": 6
       }
     ],
     "dappros/ethora": [
@@ -75363,6 +75688,11 @@
       {
         "date": "2026-09-23",
         "stars": 9,
+        "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 10,
         "forks": 0
       }
     ],
@@ -75636,6 +75966,11 @@
         "date": "2026-09-27",
         "stars": 117,
         "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 117,
+        "forks": 0
       }
     ],
     "ArcadeAI/docs": [
@@ -75842,6 +76177,11 @@
         "date": "2026-09-27",
         "stars": 7,
         "forks": 1
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 7,
+        "forks": 1
       }
     ],
     "Nitjsefnie/Overflow": [
@@ -75857,6 +76197,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 12,
+        "forks": 3
+      },
+      {
+        "date": "2026-09-28",
         "stars": 12,
         "forks": 3
       }
@@ -75900,6 +76245,11 @@
       {
         "date": "2026-09-27",
         "stars": 2175,
+        "forks": 366
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 2182,
         "forks": 366
       }
     ],
@@ -75995,8 +76345,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6,
-        "forks": 2
+        "stars": 7,
+        "forks": 3
       }
     ],
     "BN-KR/Tracify": [
@@ -76009,6 +76359,11 @@
     "WikiTeq/rag-of-all-trades": [
       {
         "date": "2026-09-17",
+        "stars": 9,
+        "forks": 3
+      },
+      {
+        "date": "2026-09-28",
         "stars": 9,
         "forks": 3
       }
@@ -76133,8 +76488,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 25529,
-        "forks": 2388
+        "stars": 25538,
+        "forks": 2390
       }
     ],
     "mengxi-ream/read-frog": [
@@ -76294,7 +76649,7 @@
       {
         "date": "2026-09-28",
         "stars": 2432,
-        "forks": 615
+        "forks": 616
       }
     ],
     "s2b-dev/smart-second-brain": [
@@ -76856,7 +77211,7 @@
       {
         "date": "2026-09-28",
         "stars": 8,
-        "forks": 0
+        "forks": 1
       }
     ],
     "automagik-dev/genie": [
@@ -76912,6 +77267,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 343,
+        "forks": 54
+      },
+      {
+        "date": "2026-09-28",
         "stars": 343,
         "forks": 54
       }
@@ -77148,6 +77508,11 @@
         "date": "2026-09-27",
         "stars": 12,
         "forks": 2
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 12,
+        "forks": 2
       }
     ],
     "SamurAIGPT/llm-wiki-agent": [
@@ -77371,6 +77736,11 @@
         "date": "2026-09-17",
         "stars": 7,
         "forks": 1
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 7,
+        "forks": 1
       }
     ],
     "blackwell-systems/mcp-assert": [
@@ -77426,6 +77796,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 24,
+        "forks": 2
+      },
+      {
+        "date": "2026-09-28",
         "stars": 24,
         "forks": 2
       }
@@ -77557,8 +77932,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 8291,
-        "forks": 2115
+        "stars": 8292,
+        "forks": 2116
       }
     ],
     "tweag/tricorder": [
@@ -77923,6 +78298,11 @@
         "date": "2026-09-27",
         "stars": 6,
         "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 6,
+        "forks": 0
       }
     ],
     "oracle-devrel/oracle-ai-developer-hub": [
@@ -78159,6 +78539,11 @@
         "date": "2026-09-26",
         "stars": 14,
         "forks": 2
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 14,
+        "forks": 2
       }
     ],
     "mdesalvo/Morgana": [
@@ -78299,6 +78684,11 @@
         "date": "2026-09-26",
         "stars": 10,
         "forks": 1
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 10,
+        "forks": 1
       }
     ],
     "AgentToolkit/altk-evolve": [
@@ -78335,6 +78725,11 @@
       {
         "date": "2026-09-26",
         "stars": 116,
+        "forks": 15
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 118,
         "forks": 15
       }
     ],
@@ -78538,6 +78933,11 @@
         "date": "2026-09-27",
         "stars": 8,
         "forks": 2
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 8,
+        "forks": 2
       }
     ],
     "tachyonmcp/tachyon": [
@@ -78605,6 +79005,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 13,
+        "forks": 1
+      },
+      {
+        "date": "2026-09-28",
         "stars": 13,
         "forks": 1
       }
@@ -78771,6 +79176,11 @@
         "date": "2026-09-27",
         "stars": 53,
         "forks": 21
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 53,
+        "forks": 20
       }
     ],
     "hoornet/nives": [
@@ -78791,6 +79201,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 21,
+        "forks": 0
+      },
+      {
+        "date": "2026-09-28",
         "stars": 21,
         "forks": 0
       }
@@ -78872,6 +79287,11 @@
         "date": "2026-09-26",
         "stars": 52,
         "forks": 3
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 52,
+        "forks": 3
       }
     ],
     "strands-agents/harness-sdk": [
@@ -78912,8 +79332,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 8510,
-        "forks": 1274
+        "stars": 8519,
+        "forks": 1278
       }
     ],
     "NormB/sipnab": [
@@ -78959,6 +79379,11 @@
       },
       {
         "date": "2026-09-26",
+        "stars": 27,
+        "forks": 4
+      },
+      {
+        "date": "2026-09-28",
         "stars": 27,
         "forks": 4
       }
@@ -79047,6 +79472,11 @@
         "date": "2026-09-27",
         "stars": 122,
         "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 122,
+        "forks": 0
       }
     ],
     "BrokkAi/mjolnir": [
@@ -79102,7 +79532,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 64,
+        "stars": 65,
         "forks": 7
       }
     ],
@@ -79208,6 +79638,11 @@
         "date": "2026-09-27",
         "stars": 5,
         "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 5,
+        "forks": 0
       }
     ],
     "tinyhumansai/tinyhivemind": [
@@ -79292,6 +79727,11 @@
         "date": "2026-09-27",
         "stars": 22,
         "forks": 1
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 22,
+        "forks": 1
       }
     ],
     "RailtownAI/railtracks": [
@@ -79364,6 +79804,11 @@
       },
       {
         "date": "2026-09-26",
+        "stars": 9,
+        "forks": 4
+      },
+      {
+        "date": "2026-09-28",
         "stars": 9,
         "forks": 4
       }
@@ -79440,6 +79885,11 @@
       },
       {
         "date": "2026-09-26",
+        "stars": 7,
+        "forks": 0
+      },
+      {
+        "date": "2026-09-28",
         "stars": 7,
         "forks": 0
       }
@@ -79898,7 +80348,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 19510,
+        "stars": 19515,
         "forks": 5770
       }
     ],
@@ -80030,6 +80480,11 @@
         "date": "2026-09-27",
         "stars": 2604,
         "forks": 595
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 2611,
+        "forks": 594
       }
     ],
     "cfpperche/picode": [
@@ -80298,6 +80753,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 44,
+        "forks": 15
+      },
+      {
+        "date": "2026-09-28",
         "stars": 44,
         "forks": 15
       }
@@ -80662,6 +81122,11 @@
         "date": "2026-09-26",
         "stars": 1055,
         "forks": 650
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 1078,
+        "forks": 658
       }
     ],
     "sagemath/sage": [
@@ -80832,6 +81297,11 @@
         "date": "2026-09-27",
         "stars": 2016,
         "forks": 263
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 2020,
+        "forks": 264
       }
     ],
     "intellij-elixir/intellij-elixir": [
@@ -81525,6 +81995,11 @@
         "date": "2026-09-27",
         "stars": 23,
         "forks": 13
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 23,
+        "forks": 14
       }
     ],
     "AS18718878339cai/arcane-sigils": [
@@ -82041,6 +82516,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 11,
+        "forks": 1
+      },
+      {
+        "date": "2026-09-28",
         "stars": 11,
         "forks": 1
       }
@@ -82578,8 +83058,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 778,
-        "forks": 75
+        "stars": 779,
+        "forks": 76
       }
     ],
     "XingChen-AGI/Xing4.0-29B-A4B": [
@@ -82764,7 +83244,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1447,
+        "stars": 1449,
         "forks": 218
       }
     ],
@@ -82853,6 +83333,11 @@
         "date": "2026-09-20",
         "stars": 28,
         "forks": 55
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 28,
+        "forks": 54
       }
     ],
     "tubecreate/tubecli": [
@@ -82886,6 +83371,11 @@
       {
         "date": "2026-09-24",
         "stars": 59,
+        "forks": 19
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 62,
         "forks": 19
       }
     ],
@@ -83036,8 +83526,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 4419,
-        "forks": 507
+        "stars": 4420,
+        "forks": 506
       }
     ],
     "frane/vibesurfer": [
@@ -83312,7 +83802,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 365,
+        "stars": 366,
         "forks": 41
       }
     ],
@@ -83566,7 +84056,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 406,
+        "stars": 407,
         "forks": 85
       }
     ],
@@ -83613,8 +84103,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 81838,
-        "forks": 5190
+        "stars": 81926,
+        "forks": 5197
       }
     ],
     "Muvon/octoweb": [
@@ -83933,6 +84423,11 @@
       },
       {
         "date": "2026-09-24",
+        "stars": 8,
+        "forks": 0
+      },
+      {
+        "date": "2026-09-28",
         "stars": 8,
         "forks": 0
       }
@@ -84371,6 +84866,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 5,
+        "forks": 1
+      },
+      {
+        "date": "2026-09-28",
         "stars": 5,
         "forks": 1
       }
@@ -85015,7 +85515,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 117,
+        "stars": 122,
         "forks": 16
       }
     ],
@@ -85029,6 +85529,11 @@
         "date": "2026-09-19",
         "stars": 47,
         "forks": 13
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 47,
+        "forks": 12
       }
     ],
     "SuperdeMan/cockpit-agent": [
@@ -85755,6 +86260,11 @@
         "date": "2026-09-26",
         "stars": 832,
         "forks": 41
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 832,
+        "forks": 41
       }
     ],
     "hwdsl2/docker-mcp-gateway": [
@@ -86116,6 +86626,11 @@
         "date": "2026-09-23",
         "stars": 22,
         "forks": 3
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 22,
+        "forks": 3
       }
     ],
     "prime-radiant-inc/evener": [
@@ -86225,6 +86740,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 7,
+        "forks": 8
+      },
+      {
+        "date": "2026-09-28",
         "stars": 7,
         "forks": 8
       }
@@ -86556,6 +87076,11 @@
         "date": "2026-09-18",
         "stars": 11,
         "forks": 38
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 11,
+        "forks": 40
       }
     ],
     "LogCoreTech/LogCoreOS": [
@@ -86736,6 +87261,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 16,
+        "forks": 24
+      },
+      {
+        "date": "2026-09-28",
         "stars": 16,
         "forks": 24
       }
@@ -87089,6 +87619,11 @@
       {
         "date": "2026-09-23",
         "stars": 7256,
+        "forks": 733
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 7260,
         "forks": 733
       }
     ],
@@ -87444,8 +87979,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 23918,
-        "forks": 1791
+        "stars": 24489,
+        "forks": 1836
       }
     ],
     "rust-lang/rust": [
@@ -87735,8 +88270,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5887,
-        "forks": 380
+        "stars": 5897,
+        "forks": 382
       }
     ],
     "0266st/madgen": [
@@ -87861,6 +88396,11 @@
       {
         "date": "2026-09-22",
         "stars": 53,
+        "forks": 10
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 54,
         "forks": 10
       }
     ],
@@ -88344,8 +88884,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 7077,
-        "forks": 443
+        "stars": 7133,
+        "forks": 447
       }
     ],
     "Comfy-Org/comfy-python-sdk": [
@@ -88488,6 +89028,11 @@
       {
         "date": "2026-09-26",
         "stars": 24,
+        "forks": 5
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 25,
         "forks": 5
       }
     ],
@@ -88687,8 +89232,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 3175,
-        "forks": 346
+        "stars": 3182,
+        "forks": 347
       }
     ],
     "Gilbert09/talyn": [
@@ -89340,6 +89885,11 @@
         "date": "2026-09-25",
         "stars": 5,
         "forks": 10
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 5,
+        "forks": 9
       }
     ],
     "mobius-os/mobius": [
@@ -89396,7 +89946,7 @@
       {
         "date": "2026-09-28",
         "stars": 29,
-        "forks": 11
+        "forks": 12
       }
     ],
     "khuyentran1401/codecut-blog": [
@@ -89610,7 +90160,7 @@
       {
         "date": "2026-09-28",
         "stars": 104,
-        "forks": 37
+        "forks": 40
       }
     ],
     "meanllbrl/dreamcontext": [
@@ -89788,8 +90338,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 276,
-        "forks": 48
+        "stars": 278,
+        "forks": 49
       }
     ],
     "orkait/supergraph": [
@@ -90254,7 +90804,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 354,
+        "stars": 355,
         "forks": 39
       }
     ],
@@ -90829,6 +91379,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 36,
+        "forks": 6
+      },
+      {
+        "date": "2026-09-28",
         "stars": 36,
         "forks": 6
       }
@@ -92113,7 +92668,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 13170,
+        "stars": 13171,
         "forks": 2572
       }
     ],
@@ -92256,6 +92811,11 @@
       {
         "date": "2026-09-26",
         "stars": 56,
+        "forks": 13
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 57,
         "forks": 13
       }
     ],
@@ -93281,6 +93841,11 @@
         "date": "2026-09-18",
         "stars": 4156,
         "forks": 203
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 4196,
+        "forks": 212
       }
     ],
     "LeoNatan/LNPopupUI": [
@@ -93411,6 +93976,11 @@
         "date": "2026-09-24",
         "stars": 582,
         "forks": 203
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 589,
+        "forks": 204
       }
     ],
     "UI5/webcomponents": [
@@ -94343,7 +94913,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 2220,
+        "stars": 2224,
         "forks": 203
       }
     ],
@@ -94598,6 +95168,11 @@
         "date": "2026-09-26",
         "stars": 14658,
         "forks": 1307
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 14716,
+        "forks": 1309
       }
     ],
     "sunglasses-dev/sunglasses": [
@@ -94913,6 +95488,11 @@
         "date": "2026-09-23",
         "stars": 19,
         "forks": 2
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 19,
+        "forks": 2
       }
     ],
     "leeguooooo/AgentParty": [
@@ -94998,7 +95578,7 @@
       {
         "date": "2026-09-28",
         "stars": 25,
-        "forks": 7
+        "forks": 6
       }
     ],
     "grigb/gas-prompt-library": [
@@ -95532,6 +96112,11 @@
         "date": "2026-09-27",
         "stars": 25,
         "forks": 4
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 25,
+        "forks": 4
       }
     ],
     "Nanako0129/sepia": [
@@ -95639,6 +96224,11 @@
         "date": "2026-09-23",
         "stars": 936,
         "forks": 238
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 937,
+        "forks": 239
       }
     ],
     "michelbr84/GarraRUST": [
@@ -96260,6 +96850,11 @@
         "date": "2026-09-27",
         "stars": 21,
         "forks": 3
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 21,
+        "forks": 3
       }
     ],
     "SemiAnalysisAI/InferenceX-app": [
@@ -96803,7 +97398,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 50,
+        "stars": 51,
         "forks": 5
       }
     ],
@@ -96930,6 +97525,11 @@
         "date": "2026-09-27",
         "stars": 126,
         "forks": 24
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 128,
+        "forks": 24
       }
     ],
     "conn-castle/agent-layer": [
@@ -96975,6 +97575,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 10,
+        "forks": 1
+      },
+      {
+        "date": "2026-09-28",
         "stars": 10,
         "forks": 1
       }
@@ -97192,6 +97797,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 85,
+        "forks": 4
+      },
+      {
+        "date": "2026-09-28",
         "stars": 85,
         "forks": 4
       }
@@ -98032,6 +98642,11 @@
         "date": "2026-09-27",
         "stars": 47,
         "forks": 5
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 48,
+        "forks": 5
       }
     ],
     "NSEvent/xbox-controller-mapper": [
@@ -98234,6 +98849,11 @@
         "date": "2026-09-21",
         "stars": 31,
         "forks": 8
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 32,
+        "forks": 11
       }
     ],
     "pioneerdotai/pioneer": [
@@ -98376,6 +98996,11 @@
         "date": "2026-09-26",
         "stars": 862,
         "forks": 80
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 862,
+        "forks": 80
       }
     ],
     "gokeshenzhen/TraceWeave": [
@@ -98463,6 +99088,11 @@
       },
       {
         "date": "2026-09-21",
+        "stars": 19,
+        "forks": 17
+      },
+      {
+        "date": "2026-09-28",
         "stars": 19,
         "forks": 17
       }
@@ -100034,6 +100664,11 @@
         "date": "2026-09-25",
         "stars": 46,
         "forks": 8
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 47,
+        "forks": 9
       }
     ],
     "lirantal/boxdown": [
@@ -100671,6 +101306,11 @@
         "date": "2026-09-27",
         "stars": 9,
         "forks": 7
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 9,
+        "forks": 7
       }
     ],
     "timgordontg/engrim": [
@@ -100735,6 +101375,11 @@
         "date": "2026-09-27",
         "stars": 10,
         "forks": 2
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 10,
+        "forks": 2
       }
     ],
     "langchain-ai/langchain-google": [
@@ -100762,8 +101407,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 3463,
-        "forks": 421
+        "stars": 3462,
+        "forks": 422
       }
     ],
     "MPIsaac-Per/linear-agent-bridge": [
@@ -100926,6 +101571,11 @@
       {
         "date": "2026-09-23",
         "stars": 38,
+        "forks": 3
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 40,
         "forks": 3
       }
     ],
@@ -101129,6 +101779,11 @@
         "date": "2026-09-25",
         "stars": 68,
         "forks": 11
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 69,
+        "forks": 11
       }
     ],
     "EstaxNet/Inferpal": [
@@ -101179,6 +101834,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 7,
+        "forks": 1
+      },
+      {
+        "date": "2026-09-28",
         "stars": 7,
         "forks": 1
       }
@@ -101270,6 +101930,11 @@
       },
       {
         "date": "2026-09-26",
+        "stars": 128,
+        "forks": 2
+      },
+      {
+        "date": "2026-09-28",
         "stars": 128,
         "forks": 2
       }
@@ -101377,6 +102042,11 @@
       },
       {
         "date": "2026-09-26",
+        "stars": 13,
+        "forks": 4
+      },
+      {
+        "date": "2026-09-28",
         "stars": 13,
         "forks": 4
       }
@@ -101853,6 +102523,11 @@
         "date": "2026-09-27",
         "stars": 10,
         "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 10,
+        "forks": 0
       }
     ],
     "lenaxia/k8s-mechanic": [
@@ -102039,6 +102714,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 13,
+        "forks": 0
+      },
+      {
+        "date": "2026-09-28",
         "stars": 13,
         "forks": 0
       }
@@ -102502,6 +103182,11 @@
         "date": "2026-09-25",
         "stars": 7,
         "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 7,
+        "forks": 0
       }
     ],
     "tinyhumansai/tinyflows": [
@@ -102544,6 +103229,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 25,
+        "forks": 3
+      },
+      {
+        "date": "2026-09-28",
         "stars": 25,
         "forks": 3
       }
@@ -102591,6 +103281,11 @@
         "date": "2026-09-25",
         "stars": 10556,
         "forks": 1320
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 10566,
+        "forks": 1325
       }
     ],
     "facebook/redex": [
@@ -103225,8 +103920,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 7580,
-        "forks": 467
+        "stars": 7643,
+        "forks": 474
       }
     ],
     "Fishsb/dsh-prompt-enhancer": [
@@ -103562,6 +104257,11 @@
         "date": "2026-09-23",
         "stars": 55,
         "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 55,
+        "forks": 0
       }
     ],
     "KaifKhurramm/Electra-Domain-Shift-Adaptor": [
@@ -103754,6 +104454,11 @@
         "date": "2026-09-27",
         "stars": 12,
         "forks": 3
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 12,
+        "forks": 3
       }
     ],
     "daxiaamu/ikandroid": [
@@ -103775,6 +104480,11 @@
       {
         "date": "2026-09-24",
         "stars": 27,
+        "forks": 3
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 28,
         "forks": 3
       }
     ],
@@ -104233,6 +104943,11 @@
         "date": "2026-09-27",
         "stars": 11,
         "forks": 4
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 11,
+        "forks": 4
       }
     ],
     "hraness/slopcamera": [
@@ -104323,6 +105038,11 @@
       },
       {
         "date": "2026-09-26",
+        "stars": 6,
+        "forks": 1
+      },
+      {
+        "date": "2026-09-28",
         "stars": 6,
         "forks": 1
       }
@@ -104459,6 +105179,11 @@
         "date": "2026-09-27",
         "stars": 80,
         "forks": 32
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 80,
+        "forks": 33
       }
     ],
     "noteflowai/dsh-skills-anywhere": [
@@ -104841,6 +105566,11 @@
         "date": "2026-09-19",
         "stars": 7085,
         "forks": 962
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 7208,
+        "forks": 977
       }
     ],
     "adobe/skills": [
@@ -105192,7 +105922,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 12968,
+        "stars": 12966,
         "forks": 1173
       }
     ],
@@ -105382,11 +106112,21 @@
         "date": "2026-09-27",
         "stars": 887,
         "forks": 87
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 954,
+        "forks": 95
       }
     ],
     "hezhijie0327/ZJDNS": [
       {
         "date": "2026-09-19",
+        "stars": 46,
+        "forks": 15
+      },
+      {
+        "date": "2026-09-28",
         "stars": 46,
         "forks": 15
       }
@@ -105435,7 +106175,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 67,
+        "stars": 69,
         "forks": 2
       }
     ],
@@ -105762,6 +106502,11 @@
         "date": "2026-09-26",
         "stars": 6,
         "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 6,
+        "forks": 0
       }
     ],
     "realyin/scope-lineage": [
@@ -105872,7 +106617,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 400,
+        "stars": 403,
         "forks": 67
       }
     ],
@@ -106069,6 +106814,11 @@
         "date": "2026-09-27",
         "stars": 63,
         "forks": 38
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 63,
+        "forks": 39
       }
     ],
     "LING71671/open-reverselab": [
@@ -106620,6 +107370,11 @@
         "date": "2026-09-26",
         "stars": 1947,
         "forks": 347
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 1958,
+        "forks": 349
       }
     ],
     "huhusmang/Awesome-LLMs-for-Vulnerability-Detection": [
@@ -106834,8 +107589,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 26757,
-        "forks": 1859
+        "stars": 26850,
+        "forks": 1867
       }
     ],
     "facebook/sapling": [
@@ -107124,6 +107879,11 @@
         "date": "2026-09-19",
         "stars": 2018,
         "forks": 168
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 2025,
+        "forks": 171
       }
     ],
     "rocicorp/mono": [
@@ -107245,6 +108005,11 @@
       {
         "date": "2026-09-26",
         "stars": 26,
+        "forks": 3
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 27,
         "forks": 3
       }
     ],
@@ -107676,6 +108441,11 @@
         "date": "2026-09-19",
         "stars": 106,
         "forks": 18
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 112,
+        "forks": 18
       }
     ],
     "sseshachala/conductai": [
@@ -107686,6 +108456,11 @@
       },
       {
         "date": "2026-09-26",
+        "stars": 32,
+        "forks": 4
+      },
+      {
+        "date": "2026-09-28",
         "stars": 32,
         "forks": 4
       }
@@ -109016,6 +109791,11 @@
         "date": "2026-09-19",
         "stars": 21,
         "forks": 1
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 23,
+        "forks": 2
       }
     ],
     "lucaperl/paperless-local-ai": [
@@ -109080,8 +109860,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1638,
-        "forks": 911
+        "stars": 1649,
+        "forks": 917
       }
     ],
     "mloda-ai/mloda": [
@@ -109194,6 +109974,11 @@
       },
       {
         "date": "2026-09-26",
+        "stars": 5,
+        "forks": 2
+      },
+      {
+        "date": "2026-09-28",
         "stars": 5,
         "forks": 2
       }
@@ -109404,7 +110189,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5111,
+        "stars": 5112,
         "forks": 441
       }
     ],
@@ -109871,7 +110656,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5185,
+        "stars": 5188,
         "forks": 687
       }
     ],
@@ -109883,6 +110668,11 @@
       },
       {
         "date": "2026-09-23",
+        "stars": 232,
+        "forks": 12
+      },
+      {
+        "date": "2026-09-28",
         "stars": 232,
         "forks": 12
       }
@@ -110465,6 +111255,11 @@
         "date": "2026-09-19",
         "stars": 66255,
         "forks": 3165
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 66348,
+        "forks": 3159
       }
     ],
     "Rel1cx/eslint-react": [
@@ -110729,8 +111524,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 11147,
-        "forks": 764
+        "stars": 11389,
+        "forks": 772
       }
     ],
     "tech-leads-club/harness-toolkit": [
@@ -111651,6 +112446,11 @@
         "date": "2026-09-26",
         "stars": 28,
         "forks": 2
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 28,
+        "forks": 2
       }
     ],
     "curiousily/AI-Bootcamp": [
@@ -112044,7 +112844,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 44,
+        "stars": 45,
         "forks": 4
       }
     ],
@@ -112143,6 +112943,11 @@
         "date": "2026-09-27",
         "stars": 15,
         "forks": 1
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 15,
+        "forks": 1
       }
     ],
     "retran/meowg1k": [
@@ -112223,6 +113028,11 @@
     "Unsocial-sannyasi563/awesome-free-models": [
       {
         "date": "2026-09-19",
+        "stars": 6,
+        "forks": 1
+      },
+      {
+        "date": "2026-09-28",
         "stars": 6,
         "forks": 1
       }
@@ -112391,8 +113201,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1553,
-        "forks": 375
+        "stars": 1557,
+        "forks": 377
       }
     ],
     "bnina-ayoub/JARVIS-Home-Assistant": [
@@ -112712,6 +113522,11 @@
         "date": "2026-09-19",
         "stars": 21,
         "forks": 9
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 23,
+        "forks": 10
       }
     ],
     "cyanheads/arxiv-mcp-server": [
@@ -112869,6 +113684,11 @@
         "date": "2026-09-19",
         "stars": 7,
         "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 7,
+        "forks": 0
       }
     ],
     "kyleslight/shun": [
@@ -112932,6 +113752,11 @@
     "Valliemidland674/Jackrong-llm-finetuning-guide": [
       {
         "date": "2026-09-19",
+        "stars": 5,
+        "forks": 0
+      },
+      {
+        "date": "2026-09-28",
         "stars": 5,
         "forks": 0
       }
@@ -113374,6 +114199,11 @@
         "date": "2026-09-21",
         "stars": 37,
         "forks": 8
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 37,
+        "forks": 9
       }
     ],
     "RyanAlberts/best-of-Agent-Harnesses": [
@@ -113460,6 +114290,11 @@
         "date": "2026-09-26",
         "stars": 1468,
         "forks": 155
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 1468,
+        "forks": 152
       }
     ],
     "snes9xgit/snes9x": [
@@ -113814,6 +114649,11 @@
       {
         "date": "2026-09-27",
         "stars": 639,
+        "forks": 314
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 641,
         "forks": 314
       }
     ],
@@ -114499,8 +115339,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 27376,
-        "forks": 2385
+        "stars": 27672,
+        "forks": 2412
       }
     ],
     "nibzard/decision-model-benchmark": [
@@ -114643,6 +115483,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 6,
+        "forks": 1
+      },
+      {
+        "date": "2026-09-28",
         "stars": 6,
         "forks": 1
       }
@@ -115033,7 +115878,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 133,
+        "stars": 135,
         "forks": 8
       }
     ],
@@ -115433,6 +116278,11 @@
         "date": "2026-09-27",
         "stars": 364,
         "forks": 54
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 366,
+        "forks": 54
       }
     ],
     "existential-birds/daydream": [
@@ -115480,6 +116330,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 59,
+        "forks": 11
+      },
+      {
+        "date": "2026-09-28",
         "stars": 59,
         "forks": 11
       }
@@ -116654,7 +117509,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6081,
+        "stars": 6083,
         "forks": 588
       }
     ],
@@ -116696,6 +117551,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 60,
+        "forks": 5
+      },
+      {
+        "date": "2026-09-28",
         "stars": 60,
         "forks": 5
       }
@@ -116933,6 +117793,11 @@
         "date": "2026-09-27",
         "stars": 19,
         "forks": 4
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 20,
+        "forks": 5
       }
     ],
     "Fovty/HushMic": [
@@ -117588,6 +118453,11 @@
         "date": "2026-09-20",
         "stars": 324,
         "forks": 31
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 326,
+        "forks": 31
       }
     ],
     "taniwhaai/arai": [
@@ -117872,7 +118742,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1432,
+        "stars": 1433,
         "forks": 60
       }
     ],
@@ -118312,6 +119182,11 @@
         "date": "2026-09-21",
         "stars": 5,
         "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 5,
+        "forks": 0
       }
     ],
     "yeomyeonggeori/blueclaw": [
@@ -118361,6 +119236,11 @@
         "date": "2026-09-27",
         "stars": 19,
         "forks": 3
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 19,
+        "forks": 4
       }
     ],
     "Prism-Shadow/penguin-harness": [
@@ -118486,6 +119366,11 @@
       {
         "date": "2026-09-24",
         "stars": 6,
+        "forks": 3
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 7,
         "forks": 3
       }
     ],
@@ -118760,6 +119645,11 @@
     "autopus-ai/autopus-adk": [
       {
         "date": "2026-09-20",
+        "stars": 111,
+        "forks": 73
+      },
+      {
+        "date": "2026-09-28",
         "stars": 111,
         "forks": 73
       }
@@ -119870,6 +120760,11 @@
         "date": "2026-09-24",
         "stars": 61,
         "forks": 8
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 61,
+        "forks": 8
       }
     ],
     "me2resh/agent-decision-record": [
@@ -120092,8 +120987,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 57,
-        "forks": 12
+        "stars": 93,
+        "forks": 18
       }
     ],
     "yomorun/yomo": [
@@ -120538,6 +121433,11 @@
         "date": "2026-09-27",
         "stars": 20,
         "forks": 3
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 20,
+        "forks": 3
       }
     ],
     "LazyAGI/LazyLLM": [
@@ -120705,7 +121605,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 113,
+        "stars": 114,
         "forks": 19
       }
     ],
@@ -121886,6 +122786,11 @@
         "date": "2026-09-25",
         "stars": 395,
         "forks": 18
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 434,
+        "forks": 18
       }
     ],
     "abdelkhalk93-star/audiocraft-finetune-lab": [
@@ -121983,6 +122888,11 @@
       },
       {
         "date": "2026-09-26",
+        "stars": 55,
+        "forks": 0
+      },
+      {
+        "date": "2026-09-28",
         "stars": 55,
         "forks": 0
       }
@@ -122172,8 +123082,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 173,
-        "forks": 6
+        "stars": 219,
+        "forks": 9
       }
     ],
     "colliber/duckdb-jev": [
@@ -122699,6 +123609,11 @@
         "date": "2026-09-26",
         "stars": 6,
         "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 6,
+        "forks": 0
       }
     ],
     "neomatrix369/tripwire": [
@@ -123058,6 +123973,11 @@
         "date": "2026-09-27",
         "stars": 156,
         "forks": 14
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 156,
+        "forks": 14
       }
     ],
     "ExplosiveCoderflome/AI-Novel-Writing-Assistant": [
@@ -123307,6 +124227,11 @@
     "memseekai/memseek": [
       {
         "date": "2026-09-20",
+        "stars": 10,
+        "forks": 0
+      },
+      {
+        "date": "2026-09-28",
         "stars": 10,
         "forks": 0
       }
@@ -123583,6 +124508,11 @@
         "date": "2026-09-26",
         "stars": 13,
         "forks": 4
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 13,
+        "forks": 4
       }
     ],
     "raultov/knot": [
@@ -123678,7 +124608,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1299,
+        "stars": 1302,
         "forks": 96
       }
     ],
@@ -123924,6 +124854,11 @@
         "date": "2026-09-23",
         "stars": 1332,
         "forks": 140
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 1352,
+        "forks": 143
       }
     ],
     "clj-commons/loom": [
@@ -124792,8 +125727,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6544,
-        "forks": 513
+        "stars": 6570,
+        "forks": 515
       }
     ],
     "stardeckai/lgtm": [
@@ -124880,8 +125815,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1594,
-        "forks": 86
+        "stars": 1603,
+        "forks": 87
       }
     ],
     "OpsMaxx/OpsMaxx": [
@@ -125019,6 +125954,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 74,
+        "forks": 6
+      },
+      {
+        "date": "2026-09-28",
         "stars": 74,
         "forks": 6
       }
@@ -125329,6 +126269,11 @@
       {
         "date": "2026-09-27",
         "stars": 60,
+        "forks": 7
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 61,
         "forks": 7
       }
     ],
@@ -125899,6 +126844,11 @@
         "date": "2026-09-26",
         "stars": 80,
         "forks": 18
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 80,
+        "forks": 18
       }
     ],
     "Siddhanthkjain2005/Wildlife-News": [
@@ -126083,6 +127033,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 5,
+        "forks": 0
+      },
+      {
+        "date": "2026-09-28",
         "stars": 5,
         "forks": 0
       }
@@ -126917,6 +127872,11 @@
       {
         "date": "2026-09-27",
         "stars": 30,
+        "forks": 1
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 32,
         "forks": 1
       }
     ],
@@ -127775,8 +128735,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 56101,
-        "forks": 8975
+        "stars": 56145,
+        "forks": 8979
       }
     ],
     "Gitleonan/mdPlusPlus": [
@@ -128144,6 +129104,11 @@
         "date": "2026-09-21",
         "stars": 30,
         "forks": 1
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 31,
+        "forks": 1
       }
     ],
     "0xPlaygrounds/rig": [
@@ -128438,6 +129403,11 @@
       },
       {
         "date": "2026-09-24",
+        "stars": 7,
+        "forks": 1
+      },
+      {
+        "date": "2026-09-28",
         "stars": 7,
         "forks": 1
       }
@@ -128923,7 +129893,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 10882,
+        "stars": 10887,
         "forks": 851
       }
     ],
@@ -129498,8 +130468,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 7013,
-        "forks": 2122
+        "stars": 7038,
+        "forks": 2129
       }
     ],
     "ironwood-lang/ironwood": [
@@ -129781,7 +130751,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 673,
+        "stars": 680,
         "forks": 62
       }
     ],
@@ -129823,7 +130793,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 3619,
+        "stars": 3625,
         "forks": 352
       }
     ],
@@ -129850,7 +130820,7 @@
       {
         "date": "2026-09-28",
         "stars": 7,
-        "forks": 21
+        "forks": 22
       }
     ],
     "robbyczgw-cla/hermes-web-search-plus": [
@@ -130179,6 +131149,11 @@
         "date": "2026-09-26",
         "stars": 32,
         "forks": 14
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 32,
+        "forks": 14
       }
     ],
     "postmill-ai/postmill-app": [
@@ -130435,7 +131410,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 764,
+        "stars": 763,
         "forks": 44
       }
     ],
@@ -130530,8 +131505,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 3222,
-        "forks": 253
+        "stars": 3224,
+        "forks": 254
       }
     ],
     "venslabs/vens": [
@@ -130804,6 +131779,11 @@
         "date": "2026-09-27",
         "stars": 49,
         "forks": 5
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 50,
+        "forks": 6
       }
     ],
     "MAX-786/claude-3d-harness": [
@@ -130850,6 +131830,11 @@
       },
       {
         "date": "2026-09-25",
+        "stars": 7,
+        "forks": 0
+      },
+      {
+        "date": "2026-09-28",
         "stars": 7,
         "forks": 0
       }
@@ -132541,8 +133526,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 7445,
-        "forks": 833
+        "stars": 7450,
+        "forks": 834
       }
     ],
     "lukeckprobierts/Hemmingway-1": [
@@ -132583,7 +133568,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 36,
+        "stars": 37,
         "forks": 1
       }
     ],
@@ -132777,6 +133762,11 @@
         "date": "2026-09-26",
         "stars": 15,
         "forks": 13
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 15,
+        "forks": 13
       }
     ],
     "grainulation/grainulator": [
@@ -132839,6 +133829,11 @@
       {
         "date": "2026-09-24",
         "stars": 762,
+        "forks": 96
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 763,
         "forks": 96
       }
     ],
@@ -132906,6 +133901,11 @@
       {
         "date": "2026-09-27",
         "stars": 145,
+        "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 146,
         "forks": 0
       }
     ],
@@ -133066,6 +134066,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 9,
+        "forks": 7
+      },
+      {
+        "date": "2026-09-28",
         "stars": 9,
         "forks": 7
       }
@@ -133324,6 +134329,11 @@
         "date": "2026-09-26",
         "stars": 16265,
         "forks": 1549
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 16278,
+        "forks": 1552
       }
     ],
     "multimodal-ai-lab/scrapeMM": [
@@ -133569,6 +134579,11 @@
         "date": "2026-09-22",
         "stars": 473,
         "forks": 6
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 473,
+        "forks": 6
       }
     ],
     "phaseoteam/Phaseo": [
@@ -133580,6 +134595,11 @@
       {
         "date": "2026-09-22",
         "stars": 7,
+        "forks": 4
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 9,
         "forks": 4
       }
     ],
@@ -133719,7 +134739,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 486,
+        "stars": 487,
         "forks": 130
       }
     ],
@@ -133755,6 +134775,11 @@
       },
       {
         "date": "2026-09-22",
+        "stars": 58,
+        "forks": 10
+      },
+      {
+        "date": "2026-09-28",
         "stars": 58,
         "forks": 10
       }
@@ -133805,6 +134830,11 @@
       {
         "date": "2026-09-27",
         "stars": 139,
+        "forks": 10
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 140,
         "forks": 10
       }
     ],
@@ -134345,8 +135375,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5951,
-        "forks": 639
+        "stars": 5985,
+        "forks": 642
       }
     ],
     "robjhyndman/forecast": [
@@ -134997,6 +136027,11 @@
       {
         "date": "2026-09-24",
         "stars": 10,
+        "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 11,
         "forks": 0
       }
     ],
@@ -135955,6 +136990,11 @@
         "date": "2026-09-27",
         "stars": 303,
         "forks": 44
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 304,
+        "forks": 44
       }
     ],
     "Sealjay/mcp-whatsapp": [
@@ -136821,6 +137861,11 @@
         "date": "2026-09-23",
         "stars": 1779,
         "forks": 334
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 1784,
+        "forks": 339
       }
     ],
     "yuezhiai/jonex": [
@@ -136990,6 +138035,11 @@
       },
       {
         "date": "2026-09-26",
+        "stars": 732,
+        "forks": 246
+      },
+      {
+        "date": "2026-09-28",
         "stars": 732,
         "forks": 246
       }
@@ -138136,6 +139186,11 @@
         "date": "2026-09-23",
         "stars": 1883,
         "forks": 207
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 1916,
+        "forks": 212
       }
     ],
     "axisrobo/ea-harness": [
@@ -138153,6 +139208,11 @@
       },
       {
         "date": "2026-09-24",
+        "stars": 9,
+        "forks": 2
+      },
+      {
+        "date": "2026-09-28",
         "stars": 9,
         "forks": 2
       }
@@ -140107,6 +141167,11 @@
         "date": "2026-09-25",
         "stars": 27,
         "forks": 4
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 27,
+        "forks": 4
       }
     ],
     "cyl-castillo/agent-console": [
@@ -140482,6 +141547,11 @@
         "date": "2026-09-22",
         "stars": 41,
         "forks": 5
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 46,
+        "forks": 5
       }
     ],
     "windsnow1025/LLM-Bridge": [
@@ -140494,6 +141564,11 @@
     "Anandb71/arbor": [
       {
         "date": "2026-09-22",
+        "stars": 158,
+        "forks": 25
+      },
+      {
+        "date": "2026-09-28",
         "stars": 158,
         "forks": 25
       }
@@ -140685,6 +141760,11 @@
         "date": "2026-09-25",
         "stars": 5,
         "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 5,
+        "forks": 0
       }
     ],
     "dearlordylord/huly-mcp": [
@@ -140745,6 +141825,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 15,
+        "forks": 1
+      },
+      {
+        "date": "2026-09-28",
         "stars": 15,
         "forks": 1
       }
@@ -140955,8 +142040,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 843,
-        "forks": 45
+        "stars": 848,
+        "forks": 46
       }
     ],
     "microsoft/DiskANN": [
@@ -141376,7 +142461,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 39,
+        "stars": 40,
         "forks": 6
       }
     ],
@@ -141545,7 +142630,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 130,
+        "stars": 133,
         "forks": 6
       }
     ],
@@ -141582,7 +142667,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 41,
+        "stars": 42,
         "forks": 1
       }
     ],
@@ -141774,7 +142859,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6,
+        "stars": 7,
         "forks": 0
       }
     ],
@@ -142103,6 +143188,11 @@
       {
         "date": "2026-09-23",
         "stars": 6,
+        "forks": 2
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 7,
         "forks": 2
       }
     ],
@@ -142583,7 +143673,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 105,
+        "stars": 108,
         "forks": 18
       }
     ],
@@ -142980,6 +144070,11 @@
         "date": "2026-09-22",
         "stars": 18687,
         "forks": 846
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 18778,
+        "forks": 852
       }
     ],
     "gorse-io/gorse": [
@@ -143156,6 +144251,11 @@
         "date": "2026-09-24",
         "stars": 627,
         "forks": 45
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 633,
+        "forks": 45
       }
     ],
     "CrispStrobe/CrispASR": [
@@ -143203,7 +144303,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 7208,
+        "stars": 7382,
         "forks": 56
       }
     ],
@@ -143220,6 +144320,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 12,
+        "forks": 7
+      },
+      {
+        "date": "2026-09-28",
         "stars": 12,
         "forks": 7
       }
@@ -143241,6 +144346,11 @@
         "date": "2026-09-26",
         "stars": 54,
         "forks": 7
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 55,
+        "forks": 8
       }
     ],
     "VoxisLive/voxislive": [
@@ -143439,6 +144549,11 @@
         "date": "2026-09-22",
         "stars": 61,
         "forks": 8
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 71,
+        "forks": 10
       }
     ],
     "ChimeraGaming/PixelNavigator": [
@@ -143575,8 +144690,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 2070,
-        "forks": 132
+        "stars": 2072,
+        "forks": 133
       }
     ],
     "aivaxlabs/avi": [
@@ -144049,6 +145164,11 @@
         "date": "2026-09-25",
         "stars": 6,
         "forks": 8
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 7,
+        "forks": 9
       }
     ],
     "sleep2agi/agent-network": [
@@ -144210,6 +145330,11 @@
         "date": "2026-09-23",
         "stars": 174,
         "forks": 46
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 175,
+        "forks": 46
       }
     ],
     "nokia-applied-research/AnyJev": [
@@ -144257,6 +145382,11 @@
       {
         "date": "2026-09-27",
         "stars": 81,
+        "forks": 27
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 82,
         "forks": 27
       }
     ],
@@ -144479,6 +145609,11 @@
         "date": "2026-09-23",
         "stars": 84,
         "forks": 5
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 102,
+        "forks": 6
       }
     ],
     "DataGrout/lumen": [
@@ -144643,8 +145778,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6875,
-        "forks": 1173
+        "stars": 6917,
+        "forks": 1176
       }
     ],
     "baidu-maps/stability-analysis-agent": [
@@ -144839,6 +145974,11 @@
         "date": "2026-09-27",
         "stars": 16,
         "forks": 1
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 16,
+        "forks": 1
       }
     ],
     "notoriouslab/vault-curate": [
@@ -144887,6 +146027,11 @@
         "date": "2026-09-27",
         "stars": 6,
         "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 6,
+        "forks": 0
       }
     ],
     "Intrafere/MOTO-Autonomous-ASI": [
@@ -144908,6 +146053,11 @@
         "date": "2026-09-23",
         "stars": 3793,
         "forks": 303
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 3832,
+        "forks": 308
       }
     ],
     "drasi-project/drasi-platform": [
@@ -144991,6 +146141,11 @@
         "date": "2026-09-27",
         "stars": 2370,
         "forks": 260
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 2374,
+        "forks": 262
       }
     ],
     "MaximeHeckel/blog.maximeheckel.com": [
@@ -145443,7 +146598,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 10,
+        "stars": 11,
         "forks": 0
       }
     ],
@@ -145966,6 +147121,11 @@
         "date": "2026-09-24",
         "stars": 13172,
         "forks": 923
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 13263,
+        "forks": 924
       }
     ],
     "dryvist/ai-workflows": [
@@ -147799,6 +148959,11 @@
         "date": "2026-09-23",
         "stars": 15,
         "forks": 4
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 15,
+        "forks": 4
       }
     ],
     "mfellner/sparkrun-recipes": [
@@ -148066,6 +149231,11 @@
       {
         "date": "2026-09-26",
         "stars": 13,
+        "forks": 4
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 18,
         "forks": 4
       }
     ],
@@ -148348,6 +149518,11 @@
         "date": "2026-09-25",
         "stars": 562,
         "forks": 25
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 738,
+        "forks": 26
       }
     ],
     "avala-ai/agent-code": [
@@ -149337,6 +150512,11 @@
         "date": "2026-09-25",
         "stars": 112,
         "forks": 26
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 114,
+        "forks": 26
       }
     ],
     "nullpointexception-i/agent-sphere": [
@@ -149427,6 +150607,11 @@
     "LeandroPG19/Memorys": [
       {
         "date": "2026-09-23",
+        "stars": 29,
+        "forks": 4
+      },
+      {
+        "date": "2026-09-28",
         "stars": 29,
         "forks": 4
       }
@@ -149892,6 +151077,11 @@
         "date": "2026-09-25",
         "stars": 591,
         "forks": 69
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 664,
+        "forks": 77
       }
     ],
     "KadenMc/work-buddy": [
@@ -150820,7 +152010,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 87,
+        "stars": 88,
         "forks": 9
       }
     ],
@@ -151689,6 +152879,11 @@
         "date": "2026-09-24",
         "stars": 680,
         "forks": 445
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 684,
+        "forks": 448
       }
     ],
     "harvester/harvester": [
@@ -151718,7 +152913,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 14623,
+        "stars": 14635,
         "forks": 1721
       }
     ],
@@ -152248,8 +153443,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 2028,
-        "forks": 90
+        "stars": 2083,
+        "forks": 92
       }
     ],
     "oneprolabs/hyperfilelens": [
@@ -152668,6 +153863,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 18,
+        "forks": 4
+      },
+      {
+        "date": "2026-09-28",
         "stars": 18,
         "forks": 4
       }
@@ -153212,8 +154412,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 51,
-        "forks": 7
+        "stars": 53,
+        "forks": 8
       }
     ],
     "iswalle/getnote-openclaw": [
@@ -153770,8 +154970,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 11777,
-        "forks": 5160
+        "stars": 12274,
+        "forks": 5389
       }
     ],
     "3zwr1/AMD-NR---OptiScaler": [
@@ -154239,7 +155439,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 7,
+        "stars": 8,
         "forks": 0
       }
     ],
@@ -155015,6 +156215,11 @@
         "date": "2026-09-24",
         "stars": 1772,
         "forks": 261
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 1796,
+        "forks": 275
       }
     ],
     "malkreide/swiss-transport-mcp": [
@@ -155268,6 +156473,11 @@
         "date": "2026-09-24",
         "stars": 64336,
         "forks": 19808
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 64342,
+        "forks": 19805
       }
     ],
     "PipedreamHQ/pipedream": [
@@ -155541,6 +156751,11 @@
         "date": "2026-09-27",
         "stars": 220,
         "forks": 20
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 289,
+        "forks": 26
       }
     ],
     "Subhan-code/oxygen-ui-solana": [
@@ -155865,7 +157080,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 96,
+        "stars": 100,
         "forks": 13
       }
     ],
@@ -155892,7 +157107,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 122,
+        "stars": 124,
         "forks": 10
       }
     ],
@@ -155919,7 +157134,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 4107,
+        "stars": 4108,
         "forks": 400
       }
     ],
@@ -155946,7 +157161,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 138,
+        "stars": 140,
         "forks": 32
       }
     ],
@@ -155973,8 +157188,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 18518,
-        "forks": 3619
+        "stars": 18520,
+        "forks": 3620
       }
     ],
     "popcornell/FastMSS": [
@@ -156000,7 +157215,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 43,
+        "stars": 44,
         "forks": 6
       }
     ],
@@ -156204,6 +157419,11 @@
         "date": "2026-09-26",
         "stars": 7067,
         "forks": 484
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 7068,
+        "forks": 484
       }
     ],
     "cocofhu/grasp": [
@@ -156406,6 +157626,11 @@
         "date": "2026-09-27",
         "stars": 85,
         "forks": 3
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 87,
+        "forks": 3
       }
     ],
     "samfoy/pi-knowledge-search": [
@@ -156531,6 +157756,11 @@
         "date": "2026-09-25",
         "stars": 28,
         "forks": 3
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 29,
+        "forks": 3
       }
     ],
     "KyaniteLabs/kinocut": [
@@ -156554,6 +157784,11 @@
       {
         "date": "2026-09-27",
         "stars": 55,
+        "forks": 3
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 99,
         "forks": 3
       }
     ],
@@ -156890,6 +158125,11 @@
         "date": "2026-09-24",
         "stars": 1731,
         "forks": 52
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 1730,
+        "forks": 52
       }
     ],
     "xalor888/Maodouchat": [
@@ -156910,6 +158150,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 11,
+        "forks": 1
+      },
+      {
+        "date": "2026-09-28",
         "stars": 11,
         "forks": 1
       }
@@ -157568,6 +158813,11 @@
         "date": "2026-09-26",
         "stars": 6,
         "forks": 4
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 6,
+        "forks": 5
       }
     ],
     "melbinjp/jules-prompts": [
@@ -157722,6 +158972,11 @@
       {
         "date": "2026-09-27",
         "stars": 8,
+        "forks": 1
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 9,
         "forks": 1
       }
     ],
@@ -157912,6 +159167,11 @@
       {
         "date": "2026-09-25",
         "stars": 592,
+        "forks": 109
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 591,
         "forks": 109
       }
     ],
@@ -159157,6 +160417,11 @@
         "date": "2026-09-26",
         "stars": 6,
         "forks": 1
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 7,
+        "forks": 2
       }
     ],
     "AOrbitron/Eridanus": [
@@ -160171,8 +161436,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6776,
-        "forks": 228
+        "stars": 6791,
+        "forks": 229
       }
     ],
     "cloudcell/labloop": [
@@ -160340,11 +161605,21 @@
         "date": "2026-09-26",
         "stars": 10,
         "forks": 3
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 10,
+        "forks": 3
       }
     ],
     "i9wa4/tmux-a2a-postman": [
       {
         "date": "2026-09-25",
+        "stars": 6,
+        "forks": 0
+      },
+      {
+        "date": "2026-09-28",
         "stars": 6,
         "forks": 0
       }
@@ -160488,7 +161763,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1073,
+        "stars": 1078,
         "forks": 124
       }
     ],
@@ -160652,6 +161927,11 @@
         "date": "2026-09-27",
         "stars": 7,
         "forks": 2
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 8,
+        "forks": 2
       }
     ],
     "redevops-io/sidekick": [
@@ -160781,6 +162061,11 @@
         "date": "2026-09-25",
         "stars": 1711,
         "forks": 171
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 1711,
+        "forks": 171
       }
     ],
     "uncoalesced/Peridot": [
@@ -160874,7 +162159,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 6125,
+        "stars": 6126,
         "forks": 617
       }
     ],
@@ -161513,6 +162798,11 @@
         "date": "2026-09-25",
         "stars": 12,
         "forks": 6
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 16,
+        "forks": 7
       }
     ],
     "hraness/algal": [
@@ -161520,6 +162810,11 @@
         "date": "2026-09-25",
         "stars": 13,
         "forks": 1
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 20,
+        "forks": 2
       }
     ],
     "deepakness/cogsend": [
@@ -161689,7 +162984,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 245,
+        "stars": 246,
         "forks": 10
       }
     ],
@@ -161711,7 +163006,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 2069,
+        "stars": 2071,
         "forks": 199
       }
     ],
@@ -161797,6 +163092,11 @@
       {
         "date": "2026-09-25",
         "stars": 31,
+        "forks": 8
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 30,
         "forks": 8
       }
     ],
@@ -161922,8 +163222,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 537,
-        "forks": 54
+        "stars": 554,
+        "forks": 57
       }
     ],
     "BeyondTheProtocol/polaris": [
@@ -162346,6 +163646,11 @@
         "date": "2026-09-25",
         "stars": 899,
         "forks": 61
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 899,
+        "forks": 61
       }
     ],
     "ciromattia/kcc": [
@@ -162440,6 +163745,11 @@
         "date": "2026-09-25",
         "stars": 30086,
         "forks": 2914
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 30115,
+        "forks": 2924
       }
     ],
     "carverauto/serviceradar": [
@@ -162674,6 +163984,11 @@
         "date": "2026-09-25",
         "stars": 363,
         "forks": 14
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 416,
+        "forks": 17
       }
     ],
     "christianmat/jev-pokemon": [
@@ -162757,6 +164072,11 @@
         "date": "2026-09-26",
         "stars": 31,
         "forks": 2
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 61,
+        "forks": 2
       }
     ],
     "oxpull/django-ox": [
@@ -162811,6 +164131,11 @@
       {
         "date": "2026-09-27",
         "stars": 16,
+        "forks": 1
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 20,
         "forks": 1
       }
     ],
@@ -162945,7 +164270,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 103,
+        "stars": 105,
         "forks": 5
       }
     ],
@@ -162996,8 +164321,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 2145,
-        "forks": 190
+        "stars": 2272,
+        "forks": 197
       }
     ],
     "securizart/offensive-forensic-distros-installer-macbook-air-M1-M2-external-disk-luks": [
@@ -163220,8 +164545,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 16745,
-        "forks": 1694
+        "stars": 16790,
+        "forks": 1700
       }
     ],
     "eric-cielo/moflo": [
@@ -163373,6 +164698,11 @@
     "vbonk/repo-template": [
       {
         "date": "2026-09-26",
+        "stars": 7,
+        "forks": 1
+      },
+      {
+        "date": "2026-09-28",
         "stars": 7,
         "forks": 1
       }
@@ -163744,6 +165074,11 @@
         "date": "2026-09-26",
         "stars": 7016,
         "forks": 521
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 7022,
+        "forks": 523
       }
     ],
     "kube-rs/kube": [
@@ -163779,6 +165114,11 @@
         "date": "2026-09-26",
         "stars": 1570,
         "forks": 169
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 1571,
+        "forks": 173
       }
     ],
     "obgnail/typora_plugin": [
@@ -163989,6 +165329,11 @@
     "samthedataman/supafone-labs": [
       {
         "date": "2026-09-26",
+        "stars": 12,
+        "forks": 3
+      },
+      {
+        "date": "2026-09-28",
         "stars": 12,
         "forks": 3
       }
@@ -164241,6 +165586,11 @@
         "date": "2026-09-26",
         "stars": 12,
         "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 14,
+        "forks": 0
       }
     ],
     "v94lere/solon": [
@@ -164338,6 +165688,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 179,
+        "forks": 26
+      },
+      {
+        "date": "2026-09-28",
         "stars": 179,
         "forks": 26
       }
@@ -164489,6 +165844,11 @@
         "date": "2026-09-26",
         "stars": 145,
         "forks": 124
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 145,
+        "forks": 129
       }
     ],
     "stufently/gpt-web-gateway": [
@@ -164672,11 +166032,21 @@
         "date": "2026-09-26",
         "stars": 6,
         "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 6,
+        "forks": 0
       }
     ],
     "WhiteBite/dejavu-gates": [
       {
         "date": "2026-09-26",
+        "stars": 6,
+        "forks": 0
+      },
+      {
+        "date": "2026-09-28",
         "stars": 6,
         "forks": 0
       }
@@ -165336,7 +166706,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 11,
+        "stars": 12,
         "forks": 0
       }
     ],
@@ -165409,6 +166779,11 @@
         "date": "2026-09-26",
         "stars": 8,
         "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 15,
+        "forks": 0
       }
     ],
     "ariannamethod/notorch": [
@@ -165430,6 +166805,11 @@
         "date": "2026-09-26",
         "stars": 39,
         "forks": 1
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 42,
+        "forks": 3
       }
     ],
     "spotta85/anyagent": [
@@ -165734,6 +167114,11 @@
         "date": "2026-09-26",
         "stars": 101,
         "forks": 3
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 106,
+        "forks": 3
       }
     ],
     "putervision/vision-memory-mcp": [
@@ -165741,6 +167126,11 @@
         "date": "2026-09-26",
         "stars": 80,
         "forks": 1
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 84,
+        "forks": 2
       }
     ],
     "LiuTianjie/LinkShell": [
@@ -165891,6 +167281,11 @@
       {
         "date": "2026-09-27",
         "stars": 110,
+        "forks": 31
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 111,
         "forks": 31
       }
     ],
@@ -166530,7 +167925,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 62,
+        "stars": 63,
         "forks": 1
       }
     ],
@@ -166617,8 +168012,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 22,
-        "forks": 2
+        "stars": 23,
+        "forks": 3
       }
     ],
     "JuhLabs/juhradial-mx": [
@@ -166672,6 +168067,11 @@
       {
         "date": "2026-09-26",
         "stars": 8,
+        "forks": 2
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 9,
         "forks": 2
       }
     ],
@@ -167111,6 +168511,11 @@
         "date": "2026-09-27",
         "stars": 59,
         "forks": 11
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 59,
+        "forks": 11
       }
     ],
     "OrygnsCode/opa-mcp-server": [
@@ -167175,6 +168580,11 @@
     "NimbleBrainInc/nimblebrain": [
       {
         "date": "2026-09-26",
+        "stars": 23,
+        "forks": 14
+      },
+      {
+        "date": "2026-09-28",
         "stars": 23,
         "forks": 14
       }
@@ -167416,6 +168826,11 @@
         "date": "2026-09-26",
         "stars": 1191,
         "forks": 70
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 1196,
+        "forks": 71
       }
     ],
     "javamelody/javamelody": [
@@ -167482,8 +168897,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 1821,
-        "forks": 58
+        "stars": 1838,
+        "forks": 57
       }
     ],
     "dborth/snes9xgx": [
@@ -167494,6 +168909,11 @@
       },
       {
         "date": "2026-09-27",
+        "stars": 505,
+        "forks": 74
+      },
+      {
+        "date": "2026-09-28",
         "stars": 505,
         "forks": 74
       }
@@ -167634,6 +169054,11 @@
       {
         "date": "2026-09-26",
         "stars": 13,
+        "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 14,
         "forks": 0
       }
     ],
@@ -167798,8 +169223,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 878,
-        "forks": 15
+        "stars": 916,
+        "forks": 16
       }
     ],
     "kasper0406/claude-mood": [
@@ -167921,7 +169346,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 33,
+        "stars": 34,
         "forks": 0
       }
     ],
@@ -168241,6 +169666,11 @@
         "date": "2026-09-27",
         "stars": 1364,
         "forks": 316
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 1365,
+        "forks": 319
       }
     ],
     "tryingET/pi-server": [
@@ -168574,8 +170004,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5808,
-        "forks": 591
+        "stars": 5879,
+        "forks": 598
       }
     ],
     "darkwebca123-cpu/WARDOGS-Tactical-Overlay-Interface": [
@@ -168780,6 +170210,11 @@
     "IBeam1209/pokeplus-nexus": [
       {
         "date": "2026-09-27",
+        "stars": 55,
+        "forks": 0
+      },
+      {
+        "date": "2026-09-28",
         "stars": 55,
         "forks": 0
       }
@@ -169242,6 +170677,11 @@
         "date": "2026-09-27",
         "stars": 6,
         "forks": 1
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 6,
+        "forks": 1
       }
     ],
     "Fistacho/ha-nexus-agent": [
@@ -169325,6 +170765,11 @@
       {
         "date": "2026-09-27",
         "stars": 5,
+        "forks": 2
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 6,
         "forks": 2
       }
     ],
@@ -169495,6 +170940,11 @@
     "yeongseon/azure-functions-knowledge-python": [
       {
         "date": "2026-09-27",
+        "stars": 6,
+        "forks": 0
+      },
+      {
+        "date": "2026-09-28",
         "stars": 6,
         "forks": 0
       }
@@ -170078,7 +171528,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 23,
+        "stars": 24,
         "forks": 3
       }
     ],
@@ -170123,7 +171573,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 2,
+        "stars": 3,
         "forks": 0
       }
     ],
@@ -170174,6 +171624,11 @@
         "date": "2026-09-27",
         "stars": 1,
         "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 1,
+        "forks": 0
       }
     ],
     "reindent/jauvex": [
@@ -170211,6 +171666,11 @@
       {
         "date": "2026-09-27",
         "stars": 1714,
+        "forks": 270
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 1715,
         "forks": 270
       }
     ],
@@ -170338,7 +171798,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 73,
+        "stars": 74,
         "forks": 23
       }
     ],
@@ -170359,6 +171819,11 @@
     "grimoire-rs/grimoire": [
       {
         "date": "2026-09-27",
+        "stars": 11,
+        "forks": 1
+      },
+      {
+        "date": "2026-09-28",
         "stars": 11,
         "forks": 1
       }
@@ -170805,6 +172270,11 @@
     "ysy0915/chat-system": [
       {
         "date": "2026-09-27",
+        "stars": 12,
+        "forks": 1
+      },
+      {
+        "date": "2026-09-28",
         "stars": 12,
         "forks": 1
       }
@@ -171339,6 +172809,11 @@
         "date": "2026-09-27",
         "stars": 18,
         "forks": 0
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 19,
+        "forks": 0
       }
     ],
     "kamol1dn/GD-lazer": [
@@ -171546,7 +173021,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 36,
+        "stars": 37,
         "forks": 1
       }
     ],
@@ -171639,7 +173114,7 @@
       {
         "date": "2026-09-28",
         "stars": 6261,
-        "forks": 543
+        "forks": 544
       }
     ],
     "heetdalsania/quire": [
@@ -171697,7 +173172,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 688,
+        "stars": 689,
         "forks": 58
       }
     ],
@@ -171808,8 +173283,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 209,
-        "forks": 11
+        "stars": 225,
+        "forks": 13
       }
     ],
     "publicExcess/splish": [
@@ -171841,6 +173316,11 @@
     "mehmetnadir/cdpilot": [
       {
         "date": "2026-09-27",
+        "stars": 31,
+        "forks": 6
+      },
+      {
+        "date": "2026-09-28",
         "stars": 31,
         "forks": 6
       }
@@ -171928,6 +173408,11 @@
         "date": "2026-09-27",
         "stars": 120,
         "forks": 13
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 120,
+        "forks": 12
       }
     ],
     "belaytzev/Telebrief": [
@@ -171954,6 +173439,11 @@
     "Jovancoding/Network-AI": [
       {
         "date": "2026-09-27",
+        "stars": 78,
+        "forks": 13
+      },
+      {
+        "date": "2026-09-28",
         "stars": 78,
         "forks": 13
       }
@@ -172036,8 +173526,8 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 5579,
-        "forks": 143
+        "stars": 5607,
+        "forks": 146
       }
     ],
     "teja2495/quick-search": [
@@ -172459,6 +173949,11 @@
         "date": "2026-09-27",
         "stars": 26,
         "forks": 1
+      },
+      {
+        "date": "2026-09-28",
+        "stars": 27,
+        "forks": 1
       }
     ],
     "amkulikov/dashcamigo": [
@@ -172577,7 +174072,7 @@
       },
       {
         "date": "2026-09-28",
-        "stars": 7,
+        "stars": 9,
         "forks": 1
       }
     ],
@@ -172661,8 +174156,8 @@
     "algorithmicsuperintelligence/openevolve": [
       {
         "date": "2026-09-28",
-        "stars": 7451,
-        "forks": 1167
+        "stars": 7454,
+        "forks": 1168
       }
     ],
     "aunysillyme/model-orchestrator": [
@@ -172837,7 +174332,7 @@
       {
         "date": "2026-09-28",
         "stars": 5,
-        "forks": 2
+        "forks": 3
       }
     ],
     "zzhang82/Agent-Memory-Bridge": [
@@ -173725,112 +175220,112 @@
     "emir/claude-s40": [
       {
         "date": "2026-09-28",
-        "stars": 141,
-        "forks": 12
+        "stars": 199,
+        "forks": 20
       }
     ],
     "armory3d/armorpaint": [
       {
         "date": "2026-09-28",
-        "stars": 5240,
+        "stars": 5244,
         "forks": 593
       }
     ],
     "QL-Win/QuickLook": [
       {
         "date": "2026-09-28",
-        "stars": 25019,
-        "forks": 1329
+        "stars": 25027,
+        "forks": 1330
       }
     ],
     "RayrenSX/iPhoneMirror": [
       {
         "date": "2026-09-28",
-        "stars": 880,
+        "stars": 888,
         "forks": 60
       }
     ],
     "flameshot-org/flameshot": [
       {
         "date": "2026-09-28",
-        "stars": 30987,
+        "stars": 30990,
         "forks": 2033
       }
     ],
     "bilirec/bilirec": [
       {
         "date": "2026-09-28",
-        "stars": 48,
-        "forks": 5
+        "stars": 50,
+        "forks": 4
       }
     ],
     "rakyll/hey": [
       {
         "date": "2026-09-28",
-        "stars": 20339,
+        "stars": 20343,
         "forks": 1310
       }
     ],
     "Jinnrry/PMail": [
       {
         "date": "2026-09-28",
-        "stars": 2120,
-        "forks": 238
+        "stars": 2126,
+        "forks": 239
       }
     ],
     "riba2534/claude-opus-5-5-demo": [
       {
         "date": "2026-09-28",
-        "stars": 876,
+        "stars": 879,
         "forks": 127
       }
     ],
     "sirmalloc/ccstatusline": [
       {
         "date": "2026-09-28",
-        "stars": 13080,
-        "forks": 584
+        "stars": 13087,
+        "forks": 585
       }
     ],
     "davatron5000/microlighter": [
       {
         "date": "2026-09-28",
-        "stars": 961,
+        "stars": 964,
         "forks": 29
       }
     ],
     "ChenLiu-1996/figures4papers": [
       {
         "date": "2026-09-28",
-        "stars": 7666,
+        "stars": 7695,
         "forks": 542
       }
     ],
     "flet-dev/flet": [
       {
         "date": "2026-09-28",
-        "stars": 17154,
-        "forks": 714
+        "stars": 17157,
+        "forks": 715
       }
     ],
     "kr8s-org/kr8s": [
       {
         "date": "2026-09-28",
-        "stars": 979,
+        "stars": 980,
         "forks": 71
       }
     ],
     "Canop/broot": [
       {
         "date": "2026-09-28",
-        "stars": 13006,
-        "forks": 319
+        "stars": 13008,
+        "forks": 320
       }
     ],
     "sharkdp/numbat": [
       {
         "date": "2026-09-28",
-        "stars": 2717,
+        "stars": 2719,
         "forks": 119
       }
     ],
@@ -173851,21 +175346,21 @@
     "geeklee/srt-whiteboard-animation": [
       {
         "date": "2026-09-28",
-        "stars": 3672,
-        "forks": 588
+        "stars": 3690,
+        "forks": 592
       }
     ],
     "xingkongliang/skills-manager": [
       {
         "date": "2026-09-28",
-        "stars": 5141,
-        "forks": 438
+        "stars": 5160,
+        "forks": 439
       }
     ],
     "lhlGitHub/threejs-architecture-effects": [
       {
         "date": "2026-09-28",
-        "stars": 381,
+        "stars": 383,
         "forks": 55
       }
     ],
@@ -173879,28 +175374,28 @@
     "thaw-app/Thaw": [
       {
         "date": "2026-09-28",
-        "stars": 11594,
-        "forks": 282
+        "stars": 11599,
+        "forks": 284
       }
     ],
     "citrolabs/ego-lite": [
       {
         "date": "2026-09-28",
-        "stars": 16623,
-        "forks": 886
+        "stars": 16637,
+        "forks": 885
       }
     ],
     "okalachev/flix": [
       {
         "date": "2026-09-28",
-        "stars": 1953,
+        "stars": 1957,
         "forks": 318
       }
     ],
     "pgsty/pigsty": [
       {
         "date": "2026-09-28",
-        "stars": 5720,
+        "stars": 5723,
         "forks": 386
       }
     ],
@@ -173970,7 +175465,7 @@
     "rexmhall09/TUFF": [
       {
         "date": "2026-09-28",
-        "stars": 42,
+        "stars": 43,
         "forks": 4
       }
     ],
@@ -174691,7 +176186,7 @@
     "SysAdminDoc/HushFacebook": [
       {
         "date": "2026-09-28",
-        "stars": 73,
+        "stars": 85,
         "forks": 3
       }
     ],
@@ -174950,15 +176445,15 @@
     "seamusc/papermono-shopping-list": [
       {
         "date": "2026-09-28",
-        "stars": 21,
-        "forks": 0
+        "stars": 137,
+        "forks": 3
       }
     ],
     "ahmd-sh/hntui": [
       {
         "date": "2026-09-28",
-        "stars": 38,
-        "forks": 1
+        "stars": 109,
+        "forks": 3
       }
     ],
     "cynative/cynative": [
@@ -174978,7 +176473,7 @@
     "geneva-render/geneva": [
       {
         "date": "2026-09-28",
-        "stars": 0,
+        "stars": 4,
         "forks": 0
       }
     ],
@@ -175076,7 +176571,7 @@
     "aryafarkhondeh/cp_hand_demo": [
       {
         "date": "2026-09-28",
-        "stars": 2,
+        "stars": 5,
         "forks": 0
       }
     ],
@@ -175085,6 +176580,1147 @@
         "date": "2026-09-28",
         "stars": 0,
         "forks": 0
+      }
+    ],
+    "TheMind-AI/fluid-db": [
+      {
+        "date": "2026-09-28",
+        "stars": 113,
+        "forks": 6
+      }
+    ],
+    "accd/verchestra": [
+      {
+        "date": "2026-09-28",
+        "stars": 5,
+        "forks": 1
+      }
+    ],
+    "automatis-tools/agents-can-communicate": [
+      {
+        "date": "2026-09-28",
+        "stars": 108,
+        "forks": 2
+      }
+    ],
+    "GeneGulanesJr/LaPis": [
+      {
+        "date": "2026-09-28",
+        "stars": 49,
+        "forks": 11
+      }
+    ],
+    "jakubs2623/notebooklm-skill": [
+      {
+        "date": "2026-09-28",
+        "stars": 7,
+        "forks": 2
+      }
+    ],
+    "tjqscott/dory": [
+      {
+        "date": "2026-09-28",
+        "stars": 57,
+        "forks": 0
+      }
+    ],
+    "morluto/rea": [
+      {
+        "date": "2026-09-28",
+        "stars": 417,
+        "forks": 38
+      }
+    ],
+    "only-cli/oc": [
+      {
+        "date": "2026-09-28",
+        "stars": 524,
+        "forks": 32
+      }
+    ],
+    "fru-dev3/fd-apps-prevail-desktop": [
+      {
+        "date": "2026-09-28",
+        "stars": 33,
+        "forks": 1
+      }
+    ],
+    "fru-dev3/fd-apps-prevail-cli": [
+      {
+        "date": "2026-09-28",
+        "stars": 10,
+        "forks": 0
+      }
+    ],
+    "Pal-AI-Lab/Cortico": [
+      {
+        "date": "2026-09-28",
+        "stars": 159,
+        "forks": 10
+      }
+    ],
+    "EliseyRotar/jarvis-ai": [
+      {
+        "date": "2026-09-28",
+        "stars": 9,
+        "forks": 4
+      }
+    ],
+    "Hugelidus/Pointcast": [
+      {
+        "date": "2026-09-28",
+        "stars": 5,
+        "forks": 2
+      }
+    ],
+    "llmsyscore/llm-systems-manager": [
+      {
+        "date": "2026-09-28",
+        "stars": 5,
+        "forks": 2
+      }
+    ],
+    "nickallevato/paperclip-tickler": [
+      {
+        "date": "2026-09-28",
+        "stars": 8,
+        "forks": 0
+      }
+    ],
+    "tinylabscom/mvm": [
+      {
+        "date": "2026-09-28",
+        "stars": 43,
+        "forks": 4
+      }
+    ],
+    "svnscha/mcp-windbg": [
+      {
+        "date": "2026-09-28",
+        "stars": 1594,
+        "forks": 158
+      }
+    ],
+    "krisshkodrani/OpenSidebar": [
+      {
+        "date": "2026-09-28",
+        "stars": 5,
+        "forks": 0
+      }
+    ],
+    "sessionbus/sessionbus": [
+      {
+        "date": "2026-09-28",
+        "stars": 15,
+        "forks": 0
+      }
+    ],
+    "Dynaevangelical2652/android-agent": [
+      {
+        "date": "2026-09-28",
+        "stars": 5,
+        "forks": 0
+      }
+    ],
+    "scowlsericulturist188/claude-auto-tok": [
+      {
+        "date": "2026-09-28",
+        "stars": 11,
+        "forks": 0
+      }
+    ],
+    "Tech-Byte-Frontier/jevgate": [
+      {
+        "date": "2026-09-28",
+        "stars": 8,
+        "forks": 2
+      }
+    ],
+    "renee-jia/trading-bot": [
+      {
+        "date": "2026-09-28",
+        "stars": 94,
+        "forks": 17
+      }
+    ],
+    "xipkit/vibescript": [
+      {
+        "date": "2026-09-28",
+        "stars": 13,
+        "forks": 2
+      }
+    ],
+    "tigu77/tiguclaw": [
+      {
+        "date": "2026-09-28",
+        "stars": 6,
+        "forks": 0
+      }
+    ],
+    "kdcokenny/ocx": [
+      {
+        "date": "2026-09-28",
+        "stars": 964,
+        "forks": 46
+      }
+    ],
+    "IBM/granite-workshop": [
+      {
+        "date": "2026-09-28",
+        "stars": 49,
+        "forks": 40
+      }
+    ],
+    "lglucas/ai-dev-operating-system": [
+      {
+        "date": "2026-09-28",
+        "stars": 12,
+        "forks": 1
+      }
+    ],
+    "jentic/jentic-api-scorecard": [
+      {
+        "date": "2026-09-28",
+        "stars": 21,
+        "forks": 5
+      }
+    ],
+    "Meldiron/meraline": [
+      {
+        "date": "2026-09-28",
+        "stars": 7,
+        "forks": 0
+      }
+    ],
+    "NVFivem/pattern8": [
+      {
+        "date": "2026-09-28",
+        "stars": 7,
+        "forks": 2
+      }
+    ],
+    "kalavai-net/kalavai-client": [
+      {
+        "date": "2026-09-28",
+        "stars": 222,
+        "forks": 9
+      }
+    ],
+    "cagatayuncu/gitdoctor": [
+      {
+        "date": "2026-09-28",
+        "stars": 9,
+        "forks": 0
+      }
+    ],
+    "hemansnation/AI-Engineer-Headquarters": [
+      {
+        "date": "2026-09-28",
+        "stars": 3687,
+        "forks": 698
+      }
+    ],
+    "Hapsburgtopquark388/SillyTavern-Streamline": [
+      {
+        "date": "2026-09-28",
+        "stars": 6,
+        "forks": 0
+      }
+    ],
+    "MindFlock/MindFlock": [
+      {
+        "date": "2026-09-28",
+        "stars": 14,
+        "forks": 2
+      }
+    ],
+    "Olaradiallysymmetrical491/web3-bug-bounty-hunting-ai-skills": [
+      {
+        "date": "2026-09-28",
+        "stars": 5,
+        "forks": 4
+      }
+    ],
+    "ShadowWalker2014/open-sunsama": [
+      {
+        "date": "2026-09-28",
+        "stars": 68,
+        "forks": 14
+      }
+    ],
+    "keras-team/keras-hub": [
+      {
+        "date": "2026-09-28",
+        "stars": 990,
+        "forks": 369
+      }
+    ],
+    "hackerass31-design/Autonomix": [
+      {
+        "date": "2026-09-28",
+        "stars": 6,
+        "forks": 3
+      }
+    ],
+    "zhjai/agent-arena": [
+      {
+        "date": "2026-09-28",
+        "stars": 25,
+        "forks": 5
+      }
+    ],
+    "tonyd2wild/The-Sparky-Command-Center": [
+      {
+        "date": "2026-09-28",
+        "stars": 42,
+        "forks": 4
+      }
+    ],
+    "leemour/max-cli": [
+      {
+        "date": "2026-09-28",
+        "stars": 5,
+        "forks": 1
+      }
+    ],
+    "Umer-2612/mcp-eval-gate": [
+      {
+        "date": "2026-09-28",
+        "stars": 7,
+        "forks": 0
+      }
+    ],
+    "IvanWng97/pixtuoid": [
+      {
+        "date": "2026-09-28",
+        "stars": 485,
+        "forks": 31
+      }
+    ],
+    "saibimajdi/typesafeai-dotnet-sdk": [
+      {
+        "date": "2026-09-28",
+        "stars": 11,
+        "forks": 1
+      }
+    ],
+    "ref-tools/ref-tools-mcp": [
+      {
+        "date": "2026-09-28",
+        "stars": 1176,
+        "forks": 70
+      }
+    ],
+    "honlnk/NovAI": [
+      {
+        "date": "2026-09-28",
+        "stars": 8,
+        "forks": 1
+      }
+    ],
+    "Eldin162/jobclaw": [
+      {
+        "date": "2026-09-28",
+        "stars": 15,
+        "forks": 1
+      }
+    ],
+    "agentjido/jido_mcp": [
+      {
+        "date": "2026-09-28",
+        "stars": 9,
+        "forks": 8
+      }
+    ],
+    "andrewcigan/vibe-dev-plugin": [
+      {
+        "date": "2026-09-28",
+        "stars": 5,
+        "forks": 0
+      }
+    ],
+    "possible055/agentshim": [
+      {
+        "date": "2026-09-28",
+        "stars": 5,
+        "forks": 0
+      }
+    ],
+    "heristop/leclap": [
+      {
+        "date": "2026-09-28",
+        "stars": 29,
+        "forks": 1
+      }
+    ],
+    "DefinitelyN0tMe/neuralforge": [
+      {
+        "date": "2026-09-28",
+        "stars": 6,
+        "forks": 1
+      }
+    ],
+    "faabi28/Secure-Agent-Launcher": [
+      {
+        "date": "2026-09-28",
+        "stars": 5,
+        "forks": 0
+      }
+    ],
+    "helasaoudi/llm-inspector": [
+      {
+        "date": "2026-09-28",
+        "stars": 71,
+        "forks": 6
+      }
+    ],
+    "deepan-alve/Win-my-Argument": [
+      {
+        "date": "2026-09-28",
+        "stars": 6,
+        "forks": 1
+      }
+    ],
+    "beyondhumane/tunnel-agent": [
+      {
+        "date": "2026-09-28",
+        "stars": 33,
+        "forks": 1
+      }
+    ],
+    "zaxovaiko/treeix": [
+      {
+        "date": "2026-09-28",
+        "stars": 7,
+        "forks": 0
+      }
+    ],
+    "outerreaches/moonshine": [
+      {
+        "date": "2026-09-28",
+        "stars": 5,
+        "forks": 0
+      }
+    ],
+    "TwelveTake-Studios/reaper-mcp": [
+      {
+        "date": "2026-09-28",
+        "stars": 71,
+        "forks": 17
+      }
+    ],
+    "iBrammm/qwen-asr": [
+      {
+        "date": "2026-09-28",
+        "stars": 6,
+        "forks": 1
+      }
+    ],
+    "gkoreli/backlog-mcp": [
+      {
+        "date": "2026-09-28",
+        "stars": 5,
+        "forks": 2
+      }
+    ],
+    "intent-driven-dev/Intent-Driven-Software-Engineering": [
+      {
+        "date": "2026-09-28",
+        "stars": 6,
+        "forks": 1
+      }
+    ],
+    "apoapostolov/humanizer": [
+      {
+        "date": "2026-09-28",
+        "stars": 8,
+        "forks": 0
+      }
+    ],
+    "Prismer-AI/PrismerCloud": [
+      {
+        "date": "2026-09-28",
+        "stars": 1555,
+        "forks": 16
+      }
+    ],
+    "emirbartu/jev-for-all": [
+      {
+        "date": "2026-09-28",
+        "stars": 6,
+        "forks": 0
+      }
+    ],
+    "AshwinUgale/muteval": [
+      {
+        "date": "2026-09-28",
+        "stars": 9,
+        "forks": 5
+      }
+    ],
+    "chenxiachan/thoughtdag": [
+      {
+        "date": "2026-09-28",
+        "stars": 495,
+        "forks": 49
+      }
+    ],
+    "pinecone-io/go-pinecone": [
+      {
+        "date": "2026-09-28",
+        "stars": 68,
+        "forks": 23
+      }
+    ],
+    "Ammaar-Alam/minebench": [
+      {
+        "date": "2026-09-28",
+        "stars": 333,
+        "forks": 24
+      }
+    ],
+    "oaslananka/easyeda-mcp-pro": [
+      {
+        "date": "2026-09-28",
+        "stars": 48,
+        "forks": 9
+      }
+    ],
+    "agentjido/jido": [
+      {
+        "date": "2026-09-28",
+        "stars": 1871,
+        "forks": 120
+      }
+    ],
+    "cequence-io/pinecone-scala": [
+      {
+        "date": "2026-09-28",
+        "stars": 19,
+        "forks": 0
+      }
+    ],
+    "Ashkaan/contextium": [
+      {
+        "date": "2026-09-28",
+        "stars": 35,
+        "forks": 4
+      }
+    ],
+    "mnemon-dev/mnemon": [
+      {
+        "date": "2026-09-28",
+        "stars": 598,
+        "forks": 73
+      }
+    ],
+    "ZenAlexa/agi-brief-history": [
+      {
+        "date": "2026-09-28",
+        "stars": 13,
+        "forks": 2
+      }
+    ],
+    "XenolithEngine/xenolith-graph": [
+      {
+        "date": "2026-09-28",
+        "stars": 9,
+        "forks": 0
+      }
+    ],
+    "GoogleChrome/modern-web-guidance": [
+      {
+        "date": "2026-09-28",
+        "stars": 2345,
+        "forks": 85
+      }
+    ],
+    "hulkholden/n64js": [
+      {
+        "date": "2026-09-28",
+        "stars": 655,
+        "forks": 87
+      }
+    ],
+    "bioconda/bioconda-recipes": [
+      {
+        "date": "2026-09-28",
+        "stars": 1870,
+        "forks": 4124
+      }
+    ],
+    "langchain-ai/deepagents": [
+      {
+        "date": "2026-09-28",
+        "stars": 29840,
+        "forks": 4191
+      }
+    ],
+    "libbitcoin/libbitcoin-system": [
+      {
+        "date": "2026-09-28",
+        "stars": 1394,
+        "forks": 401
+      }
+    ],
+    "GoogleCloudPlatform/nodejs-docs-samples": [
+      {
+        "date": "2026-09-28",
+        "stars": 2994,
+        "forks": 2033
+      }
+    ],
+    "bradygaster/squad": [
+      {
+        "date": "2026-09-28",
+        "stars": 3236,
+        "forks": 497
+      }
+    ],
+    "BowTiedDevil/degenbot": [
+      {
+        "date": "2026-09-28",
+        "stars": 570,
+        "forks": 197
+      }
+    ],
+    "stackernews/stacker.news": [
+      {
+        "date": "2026-09-28",
+        "stars": 522,
+        "forks": 195
+      }
+    ],
+    "chromium/crashpad": [
+      {
+        "date": "2026-09-28",
+        "stars": 599,
+        "forks": 190
+      }
+    ],
+    "frostwire/frostwire": [
+      {
+        "date": "2026-09-28",
+        "stars": 599,
+        "forks": 168
+      }
+    ],
+    "vygr/ChrysaLisp": [
+      {
+        "date": "2026-09-28",
+        "stars": 1694,
+        "forks": 104
+      }
+    ],
+    "help-me-mom/ng-mocks": [
+      {
+        "date": "2026-09-28",
+        "stars": 1159,
+        "forks": 119
+      }
+    ],
+    "we-promise/sure": [
+      {
+        "date": "2026-09-28",
+        "stars": 10316,
+        "forks": 563
+      }
+    ],
+    "jmcnamara/rust_xlsxwriter": [
+      {
+        "date": "2026-09-28",
+        "stars": 591,
+        "forks": 52
+      }
+    ],
+    "antdv-next/antdv-next": [
+      {
+        "date": "2026-09-28",
+        "stars": 947,
+        "forks": 115
+      }
+    ],
+    "cloudflare/nimbus": [
+      {
+        "date": "2026-09-28",
+        "stars": 1294,
+        "forks": 46
+      }
+    ],
+    "dograh-hq/dograh": [
+      {
+        "date": "2026-09-28",
+        "stars": 5766,
+        "forks": 1452
+      }
+    ],
+    "elixir-nx/nx": [
+      {
+        "date": "2026-09-28",
+        "stars": 2910,
+        "forks": 233
+      }
+    ],
+    "golevelup/nestjs": [
+      {
+        "date": "2026-09-28",
+        "stars": 2747,
+        "forks": 301
+      }
+    ],
+    "CellProfiler/CellProfiler": [
+      {
+        "date": "2026-09-28",
+        "stars": 1136,
+        "forks": 425
+      }
+    ],
+    "nvidia-isaac/video_to_data": [
+      {
+        "date": "2026-09-28",
+        "stars": 791,
+        "forks": 84
+      }
+    ],
+    "stackrox/stackrox": [
+      {
+        "date": "2026-09-28",
+        "stars": 1313,
+        "forks": 194
+      }
+    ],
+    "svix/svix-webhooks": [
+      {
+        "date": "2026-09-28",
+        "stars": 3422,
+        "forks": 284
+      }
+    ],
+    "outline/outline": [
+      {
+        "date": "2026-09-28",
+        "stars": 40737,
+        "forks": 3593
+      }
+    ],
+    "clerk/javascript": [
+      {
+        "date": "2026-09-28",
+        "stars": 1761,
+        "forks": 474
+      }
+    ],
+    "hcavarsan/kftray": [
+      {
+        "date": "2026-09-28",
+        "stars": 1563,
+        "forks": 78
+      }
+    ],
+    "swiftDialog/swiftDialog": [
+      {
+        "date": "2026-09-28",
+        "stars": 849,
+        "forks": 87
+      }
+    ],
+    "hashicorp/terraform-provider-azurerm": [
+      {
+        "date": "2026-09-28",
+        "stars": 4973,
+        "forks": 5059
+      }
+    ],
+    "jaegertracing/jaeger": [
+      {
+        "date": "2026-09-28",
+        "stars": 23248,
+        "forks": 3136
+      }
+    ],
+    "videolan/dav1d": [
+      {
+        "date": "2026-09-28",
+        "stars": 805,
+        "forks": 107
+      }
+    ],
+    "automic-vault/automic-vault": [
+      {
+        "date": "2026-09-28",
+        "stars": 537,
+        "forks": 26
+      }
+    ],
+    "CapSoftware/Cap": [
+      {
+        "date": "2026-09-28",
+        "stars": 22916,
+        "forks": 1982
+      }
+    ],
+    "cisagov/vulnrichment": [
+      {
+        "date": "2026-09-28",
+        "stars": 864,
+        "forks": 120
+      }
+    ],
+    "Hero88go/melee-unlocked": [
+      {
+        "date": "2026-09-28",
+        "stars": 81,
+        "forks": 3
+      }
+    ],
+    "justoneapi-labs/justoneapi-python": [
+      {
+        "date": "2026-09-28",
+        "stars": 10,
+        "forks": 0
+      }
+    ],
+    "isshiki-works/wpe-baker": [
+      {
+        "date": "2026-09-28",
+        "stars": 18,
+        "forks": 0
+      }
+    ],
+    "UiPath/coder_eval": [
+      {
+        "date": "2026-09-28",
+        "stars": 141,
+        "forks": 3
+      }
+    ],
+    "harrylabsj/kiwi": [
+      {
+        "date": "2026-09-28",
+        "stars": 20,
+        "forks": 1
+      }
+    ],
+    "backmeupplz/jev_antispam_bot": [
+      {
+        "date": "2026-09-28",
+        "stars": 12,
+        "forks": 2
+      }
+    ],
+    "lonestill/scope-launcher": [
+      {
+        "date": "2026-09-28",
+        "stars": 12,
+        "forks": 7
+      }
+    ],
+    "galaxy-io/filament": [
+      {
+        "date": "2026-09-28",
+        "stars": 165,
+        "forks": 10
+      }
+    ],
+    "muzimu217/ui-design-agent-kit": [
+      {
+        "date": "2026-09-28",
+        "stars": 20,
+        "forks": 3
+      }
+    ],
+    "SysAdminDoc/HushMessenger": [
+      {
+        "date": "2026-09-28",
+        "stars": 12,
+        "forks": 0
+      }
+    ],
+    "TheWWWorm/abyssal": [
+      {
+        "date": "2026-09-28",
+        "stars": 26,
+        "forks": 2
+      }
+    ],
+    "mannders00/OrbitalNote": [
+      {
+        "date": "2026-09-28",
+        "stars": 11,
+        "forks": 0
+      }
+    ],
+    "sidhuharjas/Hive-Vision": [
+      {
+        "date": "2026-09-28",
+        "stars": 25,
+        "forks": 4
+      }
+    ],
+    "matsvandamme/fishball7020-fpga-devkit": [
+      {
+        "date": "2026-09-28",
+        "stars": 10,
+        "forks": 0
+      }
+    ],
+    "beallio/Decky-Metadata": [
+      {
+        "date": "2026-09-28",
+        "stars": 43,
+        "forks": 0
+      }
+    ],
+    "NguyenSiTrung/VieNeuTTSApp": [
+      {
+        "date": "2026-09-28",
+        "stars": 66,
+        "forks": 19
+      }
+    ],
+    "qaml-ai/camelAI": [
+      {
+        "date": "2026-09-28",
+        "stars": 374,
+        "forks": 36
+      }
+    ],
+    "anirudhgupta109/PixelXpert-Next": [
+      {
+        "date": "2026-09-28",
+        "stars": 78,
+        "forks": 3
+      }
+    ],
+    "elberacasa/Lineage2Elbera": [
+      {
+        "date": "2026-09-28",
+        "stars": 47,
+        "forks": 2
+      }
+    ],
+    "sammwyy/creamui": [
+      {
+        "date": "2026-09-28",
+        "stars": 29,
+        "forks": 0
+      }
+    ],
+    "buzzkit-dev/buzzkit": [
+      {
+        "date": "2026-09-28",
+        "stars": 379,
+        "forks": 21
+      }
+    ],
+    "donislawdev/ChronoMock": [
+      {
+        "date": "2026-09-28",
+        "stars": 10,
+        "forks": 1
+      }
+    ],
+    "saphid/frame-control": [
+      {
+        "date": "2026-09-28",
+        "stars": 39,
+        "forks": 1
+      }
+    ],
+    "ruban-24/switchboard": [
+      {
+        "date": "2026-09-28",
+        "stars": 12,
+        "forks": 1
+      }
+    ],
+    "zenstory-ai/drama-skills": [
+      {
+        "date": "2026-09-28",
+        "stars": 2346,
+        "forks": 512
+      }
+    ],
+    "Spikemumotor/kfebskpv": [
+      {
+        "date": "2026-09-28",
+        "stars": 201,
+        "forks": 0
+      }
+    ],
+    "lgse/strata": [
+      {
+        "date": "2026-09-28",
+        "stars": 545,
+        "forks": 54
+      }
+    ],
+    "xujialiu/Zotero-TTS": [
+      {
+        "date": "2026-09-28",
+        "stars": 36,
+        "forks": 1
+      }
+    ],
+    "BeniaBot/winapps-offline": [
+      {
+        "date": "2026-09-28",
+        "stars": 10,
+        "forks": 1
+      }
+    ],
+    "Deftera186/tennoscope": [
+      {
+        "date": "2026-09-28",
+        "stars": 23,
+        "forks": 4
+      }
+    ],
+    "zkousama/morocco-communes": [
+      {
+        "date": "2026-09-28",
+        "stars": 44,
+        "forks": 7
+      }
+    ],
+    "fpikus/ConcurrentCpp": [
+      {
+        "date": "2026-09-28",
+        "stars": 17,
+        "forks": 0
+      }
+    ],
+    "AryanXCode646/AryanXCode646": [
+      {
+        "date": "2026-09-28",
+        "stars": 11,
+        "forks": 0
+      }
+    ],
+    "msmfai/marios-mask": [
+      {
+        "date": "2026-09-28",
+        "stars": 31,
+        "forks": 0
+      }
+    ],
+    "Open-MBEE/OpenSysML": [
+      {
+        "date": "2026-09-28",
+        "stars": 31,
+        "forks": 8
+      }
+    ],
+    "Tarun-032/Mellow": [
+      {
+        "date": "2026-09-28",
+        "stars": 18,
+        "forks": 1
+      }
+    ],
+    "professorpalmer/marionette": [
+      {
+        "date": "2026-09-28",
+        "stars": 23,
+        "forks": 4
+      }
+    ],
+    "firelex/jeff": [
+      {
+        "date": "2026-09-28",
+        "stars": 175,
+        "forks": 5
+      }
+    ],
+    "mexicat/pdoom-video": [
+      {
+        "date": "2026-09-28",
+        "stars": 1764,
+        "forks": 179
+      }
+    ],
+    "google-research/rrsi": [
+      {
+        "date": "2026-09-28",
+        "stars": 593,
+        "forks": 55
+      }
+    ],
+    "PJHkorea/time-density-tension": [
+      {
+        "date": "2026-09-28",
+        "stars": 0,
+        "forks": 0
+      }
+    ],
+    "JangMan-J/pi-grok-agent": [
+      {
+        "date": "2026-09-28",
+        "stars": 1,
+        "forks": 0
+      }
+    ],
+    "Low-Zi-Hong/ESP32s3-LLM-Cluster": [
+      {
+        "date": "2026-09-28",
+        "stars": 56,
+        "forks": 5
+      }
+    ],
+    "drawdb-io/drawdb": [
+      {
+        "date": "2026-09-28",
+        "stars": 39784,
+        "forks": 3276
+      }
+    ],
+    "mogrinz/AMT630A": [
+      {
+        "date": "2026-09-28",
+        "stars": 0,
+        "forks": 0
+      }
+    ],
+    "jeffshrager/ExecutableArchaeology": [
+      {
+        "date": "2026-09-28",
+        "stars": 0,
+        "forks": 0
+      }
+    ],
+    "boitech-dev/HouseOS": [
+      {
+        "date": "2026-09-28",
+        "stars": 1,
+        "forks": 0
+      }
+    ],
+    "clojure/clojure-cli.repl": [
+      {
+        "date": "2026-09-28",
+        "stars": 2,
+        "forks": 0
+      }
+    ],
+    "noclickapp/noclick": [
+      {
+        "date": "2026-09-28",
+        "stars": 7,
+        "forks": 0
+      }
+    ],
+    "VishiATChoudhary/toolJev": [
+      {
+        "date": "2026-09-28",
+        "stars": 2,
+        "forks": 0
+      }
+    ],
+    "PrunaAI/pruna": [
+      {
+        "date": "2026-09-28",
+        "stars": 1301,
+        "forks": 113
       }
     ]
   }
